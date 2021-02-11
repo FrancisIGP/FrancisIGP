@@ -1,6 +1,6 @@
 # Welcome! 👋
 
-![Blog Banner](https://user-images.githubusercontent.com/75497349/107621442-3cbcdc80-6c91-11eb-883a-c813710c2a67.png)
+![Blog Banner](https://user-images.githubusercontent.com/75497349/107645380-91714f00-6cb3-11eb-8f28-deca1f735936.png)
 ![Profile views](https://gpvc.arturio.dev/Sss)  
 
 ## About me
