@@ -32,3 +32,4 @@ Hi, welcome to my github page! My name is Francis, and I'm a student in the area
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FrancisIGP)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Francis_IGP)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/ntMjjWY3P4)  
 
 **NOTE:** You can contact me via Discord, Github, and Twitter.
+I just created my Github page, I'm currently working on new articles to post here on Github. Thank you for visiting my page!
