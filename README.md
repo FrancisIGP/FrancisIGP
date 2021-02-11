@@ -4,7 +4,7 @@
 ![Profile views](https://gpvc.arturio.dev/Sss)  
 
 ## About me
-Hi, welcome to my github page! I'm Francis, I am dedicated to developing a future in network engineering and cybersecurity, so I'm concentrated and working hard to fulfill my ambitions. I'm currently enrolled as a high school student, and as a leisure, I pursue on studying Information Technology (IT). I write journal posts, documents, and other articles as a part of my account's valuable asset. Have the freedom to utilize any material given in this github page.
+Hi, welcome to my github page! I'm Francis, I am dedicated to developing a future in network engineering and cybersecurity, so I'm concentrated and working hard to fulfill my ambitions. I'm currently enrolled as a high school student, and as a leisure, I pursue on studying Information Technology (IT). 
 
 This is a new Github page. I'm working on new posts to publish here on Github. Thank you for visiting my Github page! <br/>
 
