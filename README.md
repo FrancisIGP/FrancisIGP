@@ -8,7 +8,7 @@ Hi, welcome to my github page! My name is Francis, and I'm a student in the area
 
 ## Skills
 
-### 🏆 Achievements:
+### 🏆 Finished Tracks:
 - CCENT
 - CCNA R&S/Security
 ### 💻 Languages:
