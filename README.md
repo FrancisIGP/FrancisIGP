@@ -17,8 +17,8 @@ Hi, welcome to my portfolio. My name is Francis, and I'm a student in the area o
 - Java
 
 ## Status
-- 🔭 I’m currently working on Daily Blogs and Documents. 
-- 🌱 I’m currently studying CCNP ENCOR
+- 🔭 Making Daily Blogs and Documents
+- 🌱 Studying CCNP ENCOR
 - 📫 Discord: Francis#7904 
 
 ## Statistics
