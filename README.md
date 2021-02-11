@@ -33,5 +33,5 @@ This is a new Github page. I'm working on new posts to publish here on Github. T
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FrancisIGP)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Francis_IGP)  [<img 
 
-**NOTE:** You can contact me via Discord, Github, and Twitter.
+**NOTE:** You can contact me via Discord, Github, and Twitter. <br/>
 📫 Discord: Francis#7904 
