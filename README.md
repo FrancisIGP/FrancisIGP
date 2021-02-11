@@ -10,7 +10,7 @@ Hi, welcome to my github page! My name is Francis, and I'm a student in the area
 
 ### 🏆 Achievements:
 - CCENT
-- CCNA RS/Security
+- CCNA R&S/Security
 ### 💻 Languages:
 - Bash
 - Python
