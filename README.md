@@ -21,8 +21,6 @@ Hi, welcome to my github page! My name is Francis, and I'm a student in the area
 - 🌱 Studying CCNP ENCOR
 - 📫 Discord: Francis#7904 
 
-**NOTE:** You can contact me via Discord, Github, and Twitter.
-
 ## Statistics
 <details>
   <summary>My Pofile Stats</summary>
@@ -31,5 +29,7 @@ Hi, welcome to my github page! My name is Francis, and I'm a student in the area
   <br/>
 </details>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FrancisIGP)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/FrancisIGP)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/ntMjjWY3P4)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FrancisIGP)  [<img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/ntMjjWY3P4)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Francis_IGP)  
+
+**NOTE:** You can contact me via Discord, Github, and Twitter.
