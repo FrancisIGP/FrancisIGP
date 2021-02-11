@@ -4,7 +4,7 @@
 ![Profile views](https://gpvc.arturio.dev/Sss)  
 
 ## About me
-Hi, welcome to my portfolio. My name is Francis, and I'm a student in the area of information technology. I am dedicated to developing a future in network engineering and cybersecurity, so I'm concentrated and working hard to achieve my goals. I'm currently enrolled as a high school student. I write journal posts, documents, and other articles as a part of my account's valuable asset. Have the right/freedom to utilize any material given in this github page.
+Hi, welcome to my portfolio. My name is Francis, and I'm a student in the area of information technology. I am dedicated to developing a future in network engineering and cybersecurity, so I'm concentrated and working hard to fulfill my ambitions. I'm currently enrolled as a high school student. I write journal posts, documents, and other articles as a part of my account's valuable asset. Have the right/freedom to utilize any material given in this github page.
 
 ## Skills
 
