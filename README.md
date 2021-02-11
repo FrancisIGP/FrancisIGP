@@ -19,9 +19,8 @@ Hi, welcome to my github page! I'm Francis, I am dedicated to developing a futur
 ## Status
 - 🔭 Making Daily Blogs and Documents
 - 🌱 Studying CCNP ENCOR
-- 📫 Discord: Francis#7904 
 
-## Statistics
+## Extra Information
 <details>
   <summary>My Pofile Stats</summary>
   <br/>
