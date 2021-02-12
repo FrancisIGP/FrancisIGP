@@ -37,7 +37,8 @@ I'm currently studying for CCNP ENCOR Enterprise Networks. I'm also planning on 
   <br/>
 </details>
 
-<p align="center">
 <h3 align="center">📫 Contact me:</h3>
+
+<p align="center">
 Discord: Francis#7904
 </p>
