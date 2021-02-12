@@ -15,7 +15,6 @@ leisure, I pursue on studying Information Technology (IT).
 ## Skills
 
 ### 🏆 Finished Tracks:
-
 - CCENT
 - CCNA R&S/Security
 
@@ -25,9 +24,8 @@ leisure, I pursue on studying Information Technology (IT).
 - Java
 - HTML
 
-## Status:
-- 🔭 Making Daily Blogs and Documents
-- 🌱 Studying CCNP ENCOR
+## Status
+I'm currently studying for CCNP ENCOR Enterprise Networks. I'm also planning on writing articles containing useful and informative contents. However, I'm focusing with my studies as of now. 
 <details>
   <summary>My Profile Stats</summary>
   <br/>
