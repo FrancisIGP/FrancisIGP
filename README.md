@@ -29,7 +29,7 @@ I'm currently studying for CCNP ENCOR Enterprise Networks. It is a professional 
 </p>
 
 <details>
-  <summary>My Profile Stats</summary>
+  <summary>Statistics</summary>
   <br/>
   <a href="https://github.com/FrancisIGP/github-readme-stats"><img alt="FrancisIGP's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=FrancisIGP&layout=compact&show_icons=true&include_all_commits=true&hide_border=true&theme=radical" /></a>
   <br/>
