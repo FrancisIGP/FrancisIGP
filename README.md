@@ -1,10 +1,11 @@
-<h2 align="center">Welcome! 👋</h2>
+<h3 align="center">Welcome! 👋</h3>
 
 ![Blog Banner](https://user-images.githubusercontent.com/75497349/107654987-1b261a00-6cbe-11eb-8525-35e6958078b4.png)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FrancisIGP)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Francis_IGP)  
 
+<h2 align="center">About me</h2>
+
 <p align="center">
-## About me
 Hi, welcome to my github page! I'm Francis, I am dedicated to developing a future in network engineering and cybersecurity; I'm goal-driven, working hard to fulfill my ambitions. I'm currently a high school student, and as a 
 leisure, I pursue on studying Information Technology (IT).
 </p>
@@ -32,4 +33,6 @@ leisure, I pursue on studying Information Technology (IT).
   <br/>
 </details>
 
+<p align="center">
 📫 Discord: Francis#7904 
+</p>
