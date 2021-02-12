@@ -34,8 +34,8 @@ I'm currently studying for CCNP ENCOR Enterprise Networks. It is a professional 
 <details>
   <summary>Connect with me</summary>
   <br/>
-  **Twitter:** https://twitter.com/Francis_IGP
-  **GitHub:** https://github.com/FrancisIGP
+  Twitter: https://twitter.com/Francis_IGP
+  GitHub: https://github.com/FrancisIGP
   <br/>
 </details>
 
