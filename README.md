@@ -37,4 +37,6 @@ I'm currently studying for CCNP ENCOR Enterprise Networks. It is a professional 
 
 <h3 align="center">Contact me:</h3>
 
+[<img align="center" alt="Francis | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github](https://github.com/FrancisIGP)
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FrancisIGP) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Francis_IGP)  
