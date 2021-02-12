@@ -25,7 +25,11 @@ leisure, I pursue on studying Information Technology (IT).
 - HTML
 
 ## Status
+
+<p align="center">
 I'm currently studying for CCNP ENCOR Enterprise Networks. I'm also planning on writing articles containing useful and informative contents. However, I'm focusing with my studies as of now. 
+</p>
+
 <details>
   <summary>My Profile Stats</summary>
   <br/>
