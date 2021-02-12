@@ -4,7 +4,8 @@
 ![Profile views](https://gpvc.arturio.dev/Sss)  
 
 ## About me
-Hi, welcome to my github page! I'm Francis, I am dedicated to developing a future in network engineering and cybersecurity, so I'm concentrated and working hard to fulfill my ambitions. I'm currently enrolled as a high school student, and as a leisure, I pursue on studying Information Technology (IT).
+Hi, welcome to my github page! I'm Francis, I am dedicated to developing a future in network engineering and cybersecurity; I'm goal-driven, working hard to fulfill my ambitions. I'm currently a high school student, and as a 
+leisure, I pursue on studying Information Technology (IT).
 
 ## Skills
 
@@ -22,7 +23,7 @@ Hi, welcome to my github page! I'm Francis, I am dedicated to developing a futur
 
 ## Extra Information
 <details>
-  <summary>My Pofile Stats</summary>
+  <summary>My Profile Stats</summary>
   <br/>
   <a href="https://github.com/FrancisIGP/github-readme-stats"><img alt="FrancisIGP's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=FrancisIGP&layout=compact&show_icons=true&include_all_commits=true&hide_border=true&theme=radical" /></a>
   <br/>
