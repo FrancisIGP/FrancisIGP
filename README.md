@@ -10,8 +10,6 @@ Hi, welcome to my github page! I'm Francis, I am dedicated to developing a futur
 leisure, I pursue on studying Information Technology (IT).
 </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FrancisIGP) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Francis_IGP)  
-
 ## Skills
 
 ### 🏆 Finished Tracks:
@@ -37,8 +35,6 @@ I'm currently studying for CCNP ENCOR Enterprise Networks. I'm also planning on 
   <br/>
 </details>
 
-<h3 align="center">📫 Contact me:</h3>
+<h3 align="center">Contact me:</h3>
 
-<p align="center">
-Discord: Francis#7904
-</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FrancisIGP) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Francis_IGP)  
