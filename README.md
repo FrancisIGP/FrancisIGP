@@ -1,7 +1,11 @@
 <h3 align="center">Welcome! 👋</h3>
 
+
 ![Blog Banner](https://user-images.githubusercontent.com/75497349/107654987-1b261a00-6cbe-11eb-8525-35e6958078b4.png)  
+
+<p align="center">
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FrancisIGP)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Francis_IGP)  
+</p>
 
 <h2 align="center">About me</h2>
 
