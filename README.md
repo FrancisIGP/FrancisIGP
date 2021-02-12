@@ -25,6 +25,14 @@ leisure, I pursue on studying Information Technology (IT).
 I'm currently studying for CCNP ENCOR Enterprise Networks. It is a professional entry level for the field of networking. I'm also planning on writing articles containing useful and informative contents, I'll try my best to post projects and articles even if I'm currently focusing with my studies. 
 
 ### Miscellaneous:
+
+<details>
+  <summary>Connect with me</summary>
+  <br/>
+  Will add projects soon! 
+  <br/>
+</details>
+
 <details>
   <summary>Statistics</summary>
   <br/>
