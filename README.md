@@ -27,7 +27,7 @@ I'm currently studying for CCNP ENCOR Enterprise Networks. It is a professional 
 ### Miscellaneous:
 
 <details>
-  <summary>Connect with me</summary>
+  <summary>Projects</summary>
   <br/>
   Will add projects soon! 
   <br/>
