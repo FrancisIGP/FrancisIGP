@@ -4,7 +4,7 @@
 
 ## About me
 
-Hi, welcome to my github page! My name is Francis, and I am dedicated to developing a future in network engineering and cybersecurity; I'm goal-driven, working hard to fulfill my ambitions. I'm currently a high school student, and as a 
+Hi, welcome to my github page! My name is Francis, and I am dedicated to developing a future in networking and cybersecurity; I'm goal-driven, working hard to fulfill my ambitions. I'm currently a high school student, and as a 
 leisure, I pursue on studying Information Technology (IT).
 
 ## Skills
