@@ -28,7 +28,7 @@ I'm currently studying for CCNP (ENCOR 350-401) Enterprise Networks. It is a pro
 <details>
   <summary>Projects</summary>
   <br/>
-  Will add projects soon! 
+  Will be posting open source projects soon!
   <br/>
 </details>
 
