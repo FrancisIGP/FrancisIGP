@@ -38,11 +38,3 @@ I'm currently studying for CCNP (ENCOR 350-401) Enterprise Networks and programm
   <a href="https://github.com/FrancisIGP/github-readme-stats"><img alt="FrancisIGP's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=FrancisIGP&layout=compact&show_icons=true&include_all_commits=true&hide_border=true&theme=radical" /></a>
   <br/>
 </details>
-
-<details>
-  <summary>Connect with me</summary>
-  <br/>
-  Twitter: https://twitter.com/Francis_IGP <br/>
-  GitHub: https://github.com/FrancisIGP
-  <br/>
-</details>
