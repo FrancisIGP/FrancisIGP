@@ -5,7 +5,7 @@
 ## About me
 
 Hey there! Welcome to my github page. My name is Francis, and I am dedicated to developing a future in networking and cybersecurity, generally in the cyber world; I'm goal-driven, working hard to fulfill my ambitions. I'm currently a high school student, and as a 
-leisure, I pursue on studying Information Technology (IT). In summary, I'm a High School student, dedicated on expanding my knowledge towards offensive/defensive security under IT. 
+leisure, I'm dedicated on expanding my knowledge towards offensive/defensive security under IT. 
 
 ## Skills
 
