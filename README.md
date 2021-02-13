@@ -21,7 +21,7 @@ leisure, I pursue on studying Information Technology (IT).
 
 ## Status
 
-I'm currently studying for CCNP (ENCOR 350-401) Enterprise Networks; a professional entry level for the field of networking, studying implementing core enterprise network technologies including dual stack (IPv4 and IPv6) architecture, virtualization, infrastructure, network assurance, security and automation. I'm also dedicated on contributing to open source projects which I will be posting here on GitHub. 
+I'm currently studying for CCNP (ENCOR 350-401) Enterprise Networks; a professional entry level for the field of networking, a study on implementing core enterprise network technologies including dual stack (IPv4 and IPv6) architecture, virtualization, infrastructure, network assurance, security and automation. I'm also dedicated on contributing to open source projects which I will be posting here on GitHub. 
 
 ### Miscellaneous:
 
