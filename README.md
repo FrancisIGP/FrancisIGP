@@ -11,7 +11,7 @@ leisure, I'm dedicated on expanding my knowledge towards offensive/defensive sec
 <details>
   <summary>Skills</summary>
   <br/>
-### 🏆 Finished Tracks:
+<h3> 🏆 Finished Tracks: <h3/> <br/>
 - CCENT
 - CCNA R&S/Security
 
