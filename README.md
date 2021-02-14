@@ -23,7 +23,8 @@ leisure, I'm dedicated on expanding my knowledge towards offensive/defensive sec
 <details>
   <summary>Projects</summary>
   <br/>
-  Will be posting open source projects soon!
+  Project 1: [Java in a Nutshell!](https://github.com/FrancisIGP/Java-in-a-Nutshell)
+  Will be posting more open source projects soon!
   <br/>
 </details>
 
