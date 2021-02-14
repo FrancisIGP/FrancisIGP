@@ -23,6 +23,7 @@ leisure, I'm dedicated on expanding my knowledge towards offensive/defensive sec
 <details>
   <summary>Current Projects</summary>
   <br/>
+  CCNA Document: https://github.com/FrancisIGP/CCNA-Document <br/>
   Java in a Nutshell: https://github.com/FrancisIGP/Java-in-a-Nutshell <br/>
   <br/>
 </details>
