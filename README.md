@@ -23,13 +23,13 @@ leisure, I'm dedicated on expanding my knowledge towards offensive/defensive sec
 <details>
   <summary>Current Projects</summary>
   <br/>
-  Java in a Nutshell: https://github.com/FrancisIGP/Java-in-a-Nutshell <br/><br/>
+  Java in a Nutshell: https://github.com/FrancisIGP/Java-in-a-Nutshell <br/>
   <br/>
 </details>
 
 ## Status
 
-I'm currently studying for CCNP (ENCOR 350-401) Enterprise Networks and programming, then I'm planning on taking OSCP afterwards. CCNP is a professional level track for networking; a study on implementing core enterprise network technologies including dual stack (IPv4 and IPv6) architecture, virtualization, infrastructure, network assurance, security and automation. OSCP on the other hand is an offensive security track for ethical hackers; teaches penetration testing methodologies and utilisation of various tools. I'm also dedicated on contributing to open source projects which I will be posting here on GitHub. 
+I'm currently studying for CCNP (ENCOR 350-401) Enterprise Networks and programming, then I'm planning on taking OSCP afterward. CCNP is a professional level track for networking; a study on implementing core enterprise network technologies including dual-stack (IPv4 and IPv6) architecture, virtualization, infrastructure, network assurance, security, and automation. OSCP on the other hand is an offensive security track for ethical hackers; teaches penetration testing methodologies and utilisation of various tools. I'm also dedicated on contributing to open source projects which I will be posting here on GitHub. 
 
 ### Miscellaneous:
 <details>
