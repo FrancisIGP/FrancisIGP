@@ -23,7 +23,7 @@ leisure, I'm dedicated on expanding my knowledge towards offensive/defensive sec
 <details>
   <summary>Projects</summary>
   <br/>
-  Java in a Nutshell - https://github.com/FrancisIGP/Java-in-a-Nutshell (WIP) <br/><br/>
+  Java in a Nutshell: https://github.com/FrancisIGP/Java-in-a-Nutshell (WIP) <br/><br/>
   
   Will be posting more open source projects soon!
   <br/>
