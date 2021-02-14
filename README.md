@@ -11,9 +11,6 @@ leisure, I'm dedicated on expanding my knowledge towards offensive/defensive sec
 <details>
   <summary>Skills</summary>
   <br/>
-
-## Skills
-
 ### 🏆 Finished Tracks:
 - CCENT
 - CCNA R&S/Security
@@ -23,15 +20,8 @@ leisure, I'm dedicated on expanding my knowledge towards offensive/defensive sec
 [<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/128x128.svg" />](https://www.google.com/search?&q=Bash)
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/python.svg" />](https://www.google.com/search?&q=Python)
 [<img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/svg/226/226777.svg" />](https://www.google.com/search?&q=Java) <br/>
-
   <br/>
 </details>
-
-## Status
-
-I'm currently studying for CCNP (ENCOR 350-401) Enterprise Networks and programming, then I'm planning on taking OSCP afterwards. CCNP is a professional level track for networking; a study on implementing core enterprise network technologies including dual stack (IPv4 and IPv6) architecture, virtualization, infrastructure, network assurance, security and automation. OSCP on the other hand is an offensive security track for ethical hackers; teaches penetration testing methodologies and utilisation of various tools. I'm also dedicated on contributing to open source projects which I will be posting here on GitHub. 
-
-### Miscellaneous:
 
 <details>
   <summary>Projects</summary>
@@ -40,6 +30,11 @@ I'm currently studying for CCNP (ENCOR 350-401) Enterprise Networks and programm
   <br/>
 </details>
 
+## Status
+
+I'm currently studying for CCNP (ENCOR 350-401) Enterprise Networks and programming, then I'm planning on taking OSCP afterwards. CCNP is a professional level track for networking; a study on implementing core enterprise network technologies including dual stack (IPv4 and IPv6) architecture, virtualization, infrastructure, network assurance, security and automation. OSCP on the other hand is an offensive security track for ethical hackers; teaches penetration testing methodologies and utilisation of various tools. I'm also dedicated on contributing to open source projects which I will be posting here on GitHub. 
+
+### Miscellaneous:
 <details>
   <summary>Statistics</summary>
   <br/>
