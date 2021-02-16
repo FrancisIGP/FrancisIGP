@@ -23,7 +23,7 @@ leisure, I'm dedicated on expanding my knowledge towards offensive/defensive sec
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/python.svg" />](https://www.google.com/search?&q=Python)
 [<img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/svg/226/226777.svg" />](https://www.google.com/search?&q=Java) <br/>
 
-## Miscellaneous:
+## Miscellaneous
 
 <details>
   <summary>Current Projects</summary>
