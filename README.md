@@ -19,20 +19,18 @@ leisure, I'm dedicated on expanding my knowledge towards offensive/defensive sec
 [<img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/svg/226/226777.svg" />](https://www.google.com/search?&q=Java) <br/>
 <br/> 
 
+### ☕ Status
+
+- Studying CCNP and PWK
+- Finishing up school works 
+- Writing articles/blogs
+
 <details>
   <summary>Current Projects</summary>
   <br/>
   CCNA Document: https://github.com/FrancisIGP/CCNA-Document <br/>
   <br/>
 </details>
-
-## Status
-
-- Studying CCNP
-- Studying PWK
-- Finishing up school works
-- Writing articles/blogs
-
 
 ### Miscellaneous:
 <details>
