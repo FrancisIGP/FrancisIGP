@@ -1,5 +1,6 @@
 ### Welcome! 👋
   
+![Blog Banner](https://user-images.githubusercontent.com/75497349/108092799-067bc480-70b8-11eb-8441-35ec73fe4d2c.png)
 
 ## About me
 
