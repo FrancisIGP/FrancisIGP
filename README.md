@@ -45,5 +45,3 @@ leisure, I'm dedicated on expanding my knowledge towards offensive/defensive sec
   Twitter: Francis_IGP
   <br/>
 </details>
-
-![alt text](./images/bottom.svg)
