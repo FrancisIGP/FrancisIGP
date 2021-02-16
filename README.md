@@ -28,7 +28,7 @@ leisure, I'm dedicated on expanding my knowledge towards offensive/defensive sec
 <details>
   <summary>Current Projects</summary>
   <br/>
-  CCNA Document: https://github.com/FrancisIGP/CCNA-Document <br/>
+  CCNA Document: https://github.com/FrancisIGP/CCNA-Document
   <br/>
 </details>
 
