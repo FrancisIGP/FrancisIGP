@@ -1,6 +1,6 @@
 ### Welcome! 👋
   
-![Blog Banner](https://user-images.githubusercontent.com/75497349/108092799-067bc480-70b8-11eb-8441-35ec73fe4d2c.png)
+![blog](https://user-images.githubusercontent.com/75497349/108094277-9a01c500-70b9-11eb-9a7a-3ce7df74c4d3.JPG)
 
 ## About me
 
