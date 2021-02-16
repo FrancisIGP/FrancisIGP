@@ -1,11 +1,10 @@
 ### Welcome! 👋
   
-![blog](https://user-images.githubusercontent.com/75497349/108094277-9a01c500-70b9-11eb-9a7a-3ce7df74c4d3.JPG)
+![blog](https://user-images.githubusercontent.com/75497349/108094936-493e9c00-70ba-11eb-9651-1868fde81d94.JPG)
 
 ## About me
 
-Hey there! Welcome to my github page. My name is Francis, and I am dedicated to developing a future in networking and cybersecurity, generally in the cyber world; I'm goal-driven, working hard to fulfill my ambitions. I'm currently a high school student, and as a 
-leisure, I'm dedicated on expanding my knowledge towards offensive/defensive security under the field of information technology (IT). 
+Hey there! Welcome to my github page. My name is Francis, and I am dedicated to developing a future in networking and cybersecurity, generally in the cyber world; I'm goal-driven, working hard to fulfill my ambitions. I'm currently a high school student, and as a leisure, I'm dedicated on expanding my knowledge towards offensive/defensive security and computer networking (network architectures and security) under the field of information technology (IT). 
 
 ### 🏆 Finished Tracks: 
 - CCENT 
