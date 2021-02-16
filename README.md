@@ -32,7 +32,7 @@ leisure, I'm dedicated on expanding my knowledge towards offensive/defensive sec
   <br/>
 </details>
 
-### Miscellaneous:
+## Miscellaneous:
 <details>
   <summary>Statistics</summary>
   <br/>
