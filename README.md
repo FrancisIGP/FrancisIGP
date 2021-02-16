@@ -28,7 +28,10 @@ leisure, I'm dedicated on expanding my knowledge towards offensive/defensive sec
 
 ## Status
 
-I'm currently studying for CCNP (ENCOR 350-401) Enterprise Networks and programming, then I'm planning on taking PWK afterward. CCNP is a professional level track for networking; a study on implementing core enterprise network technologies including dual-stack (IPv4 and IPv6) architecture, virtualization, infrastructure, network assurance, security, and automation. PWK on the other hand is a penetration testing training course designed for information security professionals; teaches web application security skills in Advanced Web Attacks and Exploitation (AWAE), or wireless security skills in Offensive Security Wireless Attacks (WiFu). I'm also dedicated on contributing to open source projects which I will be posting here on GitHub. 
+- Studying CCNP
+- Studying PWK
+- Finishing up school works
+- Writing articles/blogs
 
 
 ### Miscellaneous:
