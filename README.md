@@ -15,7 +15,7 @@ leisure, I'm dedicated on expanding my knowledge towards offensive/defensive sec
 
 ### ☕ Status
 
-- Studying CCNP and PWK
+- Studying CCNP, PWK and Java
 - Finishing up school works 
 - Writing articles/blogs
 
