@@ -25,6 +25,8 @@ leisure, I'm dedicated on expanding my knowledge towards offensive/defensive sec
 - Finishing up school works 
 - Writing articles/blogs
 
+## Miscellaneous:
+
 <details>
   <summary>Current Projects</summary>
   <br/>
@@ -32,7 +34,6 @@ leisure, I'm dedicated on expanding my knowledge towards offensive/defensive sec
   <br/>
 </details>
 
-## Miscellaneous:
 <details>
   <summary>Statistics</summary>
   <br/>
