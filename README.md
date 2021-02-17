@@ -28,7 +28,6 @@ Hey there! Welcome to my github page. My name is Francis, and I am dedicated to 
   <summary>Current Projects</summary>
   <br/>
   CCNA Document: https://github.com/FrancisIGP/CCNA-Document <br/> 
-  Java in a Nutshell: https://github.com/FrancisIGP/Java-in-a-Nutshell <br/>
 </details>
 
 <details>
