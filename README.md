@@ -27,8 +27,7 @@ Hey there! Welcome to my github page. My name is Francis, and I am dedicated to 
 <details>
   <summary>Current Projects</summary>
   <br/>
-  • CCNA Document <br/> 
-  https://github.com/FrancisIGP/CCNA-Document
+  •  [CCNA Document](https://github.com/FrancisIGP/CCNA-Document) <br/> 
   <br/>
 </details>
 
