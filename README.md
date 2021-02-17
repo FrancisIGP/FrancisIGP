@@ -40,6 +40,6 @@ Hey there! Welcome to my github page. My name is Francis, and I am dedicated to 
 <details>
   <summary>Follow me</summary>
   <br/>
-  Twitter: Francis_IGP
+  <a href="https://twitter.com/Francis_IGP">Twitter</a>
   <br/>
 </details>
