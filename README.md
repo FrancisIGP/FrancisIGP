@@ -26,7 +26,7 @@ Hey there! Welcome to my github page. My name is Francis, and I am dedicated to 
 
 <details>
   <summary>Current Projects</summary>
-  <h4><a href="https://github.com/FrancisIGP/CCNA-Document">CCNA Document (Project #1)</a><h4/>
+  <h3><a href="https://github.com/FrancisIGP/CCNA-Document">CCNA Document (Project #1)</a><h4/>
 </details>
 
 <details>
@@ -38,5 +38,5 @@ Hey there! Welcome to my github page. My name is Francis, and I am dedicated to 
 
 <details>
   <summary>Follow me</summary>
-  <h3><a href="https://twitter.com/Francis_IGP">Twitter</a><h3/>
+  <h3><a href="https://twitter.com/Francis_IGP">Twitter Page</a><h3/>
 </details>
