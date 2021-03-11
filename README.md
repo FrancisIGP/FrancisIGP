@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-![Black Moon Blog Banner](https://user-images.githubusercontent.com/75497349/110738959-30fe0f00-826b-11eb-8e4c-a98eb451914c.png)
+![Capture](https://user-images.githubusercontent.com/75497349/110739111-7f131280-826b-11eb-9bac-e41e05c4453f.PNG)
 
 ## About me
 
