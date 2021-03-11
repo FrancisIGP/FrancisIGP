@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-![blog](https://user-images.githubusercontent.com/75497349/108095448-d84bb400-70ba-11eb-9435-b3260d40a171.JPG)
+![Black Moon Blog Banner](https://user-images.githubusercontent.com/75497349/110738959-30fe0f00-826b-11eb-8e4c-a98eb451914c.png)
 
 ## About me
 
@@ -12,7 +12,7 @@ Hey there! Welcome to my github page. My name is Francis, and I am dedicated to 
 
 ### ☕ Status
 
-- Studying CCNP, PWK and Java
+- Preparing for CCNP and PWK
 - Finishing up school works 
 - Writing articles/blogs
 
