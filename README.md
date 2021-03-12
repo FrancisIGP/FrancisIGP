@@ -9,8 +9,9 @@ Hey there! Welcome to my github page. My name is Francis, and I am dedicated to 
 ## Extra Details
 
 ### 🧠 Degree of Knowledge: 
-- CCENT 
-- CCNA R&S/Security 
+- CCENT
+- CCNA Routing and Switching 
+- CCNA Security 
 
 ### ☕ Status
 
