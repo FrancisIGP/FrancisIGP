@@ -8,14 +8,17 @@
 Hey there! Welcome to my github page. My name is Francis, and I am dedicated to developing a future in IT field; I'm goal-driven, working hard to fulfill my ambitions. I'm currently a high school student, and as a leisure, I'm dedicated on expanding my knowledge towards offensive/defensive security, computer networking and programming, under the field of information technology (IT). 
 <p/>
 
-### 🏆 Degree of Knowledge: 
+<details>
+  <summary>More information about me</summary>
+  
+### 🧠 Degree of Knowledge: 
 - CCENT 
 - CCNA R&S/Security 
 
 ### ☕ Status
 
 - Preparing for CCNP and PWK
-- Finishing up school works 
+- Learning Java Programming
 - Writing articles/blogs
 
 ### 💻 Languages:
@@ -23,6 +26,8 @@ Hey there! Welcome to my github page. My name is Francis, and I am dedicated to 
 [<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/128x128.svg" />](https://www.google.com/search?&q=Bash)
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/python.svg" />](https://www.google.com/search?&q=Python)
 [<img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/svg/226/226777.svg" />](https://www.google.com/search?&q=Java) <br/>
+
+</details>
 
 ## Miscellaneous
 
