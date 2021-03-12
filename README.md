@@ -4,7 +4,9 @@
 
 ## About me
 
+<p align="justify">
 Hey there! Welcome to my github page. My name is Francis, and I am dedicated to developing a future in IT field; I'm goal-driven, working hard to fulfill my ambitions. I'm currently a high school student, and as a leisure, I'm dedicated on expanding my knowledge towards offensive/defensive security, computer networking and programming, under the field of information technology (IT). 
+<p/>
 
 ### 🏆 Degree of Knowledge: 
 - CCENT 
