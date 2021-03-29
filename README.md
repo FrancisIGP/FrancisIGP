@@ -5,7 +5,7 @@
 ## About me
 
 <p align="justify">
-Hey there! Welcome to my github page. My name is Francis, and I am dedicated to developing a future in IT field; I'm goal-driven, working hard to fulfill my ambitions. I'm currently a high school student, and as a leisure, I'm dedicated on expanding my knowledge towards offensive/defensive security, computer networking and programming, under the field of information technology (IT). 
+Hey there! Welcome to my Github page. My name is Francis, and I am interested in information technology; I would love to expand my knowledge towards this subject. I am currently a high school student, and as a leisure, I am committed on developing my knowledge towards the fields of offensive/defensive defense, computer networking, and programming, all of which come under the umbrella of information technology (IT).
  <p/>
 
 ### 🧠 Degree of Knowledge: 
