@@ -19,7 +19,7 @@ Hey there! Welcome to my Github page. My name is Francis, and I am interested in
 - Learning Java Programming
 - Writing articles/blogs
 
-### 💻 Languages:
+### 💻 Technologies:
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://www.google.com/search?&q=HTML5)
 [<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/128x128.svg" />](https://www.google.com/search?&q=Bash)
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/python.svg" />](https://www.google.com/search?&q=Python)
