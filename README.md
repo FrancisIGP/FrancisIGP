@@ -40,7 +40,7 @@ Hey there! Welcome to my Github page. My name is Francis, and I am interested in
 </details>
 
 <details>
-  <summary>How to reach me/summary>
+  <summary>How to reach me</summary>
   <h3><a href="https://twitter.com/Francis_IGP">Twitter Page</a><h3/>
   Discord: Francis#7904
 </details>
