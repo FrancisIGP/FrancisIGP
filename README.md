@@ -30,6 +30,7 @@ Hey there! Welcome to my Github page. My name is Francis, and I am interested in
 <details>
   <summary>Current Projects</summary>
   <h3><a href="https://github.com/FrancisIGP/CCNA-Document">CCNA Document (Project #1)</a><h4/>
+  <h3><a href="https://github.com/FrancisIGP/Miscellaneous">Miscellaneous (Extra)</a><h4/>
 </details>
 
 <details>
