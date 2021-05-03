@@ -72,5 +72,4 @@ Please lend some spare time checking out my github projects. Appreciate it!
  </table>
  </br>
  
- <h3 align="center">End<h3/>
- 
+--- END --- 
