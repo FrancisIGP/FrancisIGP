@@ -33,19 +33,21 @@ Please see the contexts listed below for additional details.
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Bash](https://img.shields.io/badge/-Shell_Script-05122A?style=flat&logo=gnu-bash)&nbsp;
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ## Miscellaneous
 
 <details>
   <summary>Current Projects</summary>
   <h3><a href="https://github.com/FrancisIGP/CCNA-Document">CCNA Document (Project #1)</a><h4/>
   <h3><a href="https://github.com/FrancisIGP/Miscellaneous">Miscellaneous (Extra)</a><h4/>
-</details>
-
-<details>
-  <summary>Statistics</summary>
-  <br/>
-  <a href="https://github.com/FrancisIGP/github-readme-stats"><img alt="FrancisIGP's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=FrancisIGP&layout=compact&show_icons=true&include_all_commits=true&hide_border=true&theme=radical" /></a>
-  <br/>
 </details>
 
 <details>
