@@ -52,17 +52,20 @@ Please lend some spare time checking out my github projects. Appreciate it!
     <th>Project Name</th>
     <th>Description</th>
     <th>Status</th>
+    <th>Last Updated</th>
   </tr>
   <tr>
     <td>#1</td>
     <td><a href="https://github.com/FrancisIGP/CCNA-Document">CCNA Document</a></td>
     <td>CCNA Document I wrote (Resource)</td>
     <td>Work in Progress</td>
+    <td>April 4, 2021</td>
   </tr>
   <tr>
     <td>#2</td>
     <td><a href="https://github.com/FrancisIGP/Miscellaneous">Miscellaneous Files</a></td>
     <td>Miscellaneous repo. where extra files are stored</td>
     <td>Appending</td>
+    <td>March 15, 2021</td>
   </tr>
  </table>
