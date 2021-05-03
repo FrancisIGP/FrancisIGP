@@ -15,14 +15,12 @@ Please see the contexts listed below for additional details.
 
 ### 🧠 Tracks studied 
 
-**Current**
-
 <a href="https://www.credly.com/org/cisco/badge/cisco-certified-network-associate-routing-and-switching-ccna-routing-and-switching"><img src="https://images.credly.com/size/340x340/images/a31c0301-ff96-4cee-9435-0a4b40ce6e66/cisco_ccna_R_26S.png" alt="Track: Cisco Certified Network Associate (Routing and Switching)"
-   title="Track: Cisco Certified Network Associate (Routing and Switching)" width="15%" /> </a> 
+   title="Track: Cisco Certified Network Associate (Routing and Switching)" width="17%" /> </a> 
 <a href="https://www.credly.com/org/cisco/badge/cisco-certified-network-associate-security-ccna-security"><img src="https://images.credly.com/size/340x340/images/23ae0d10-85d7-415a-a6c0-0e2919040628/cisco_ccna_security.png" alt="Track: Cisco Certified Network Associate (Security)"
-   title="Track: Cisco Certified Network Associate (Security)" width="15%" /> </a>  
+   title="Track: Cisco Certified Network Associate (Security)" width="17%" /> </a>  
 <a href="https://www.spitfire.co.uk/partners/overview/attachment/ccent-2/"><img src="https://www.spitfire.co.uk/wp-content/uploads/2018/07/CCENT-1.png"
-   title="Track: Cisco Certified Entry Networking Technician" width="14%" /> </a>     
+   title="Track: Cisco Certified Entry Networking Technician" width="17%" /> </a>     
 
 ### ☕ Status
 
