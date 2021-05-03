@@ -43,7 +43,7 @@ Please lend some spare time checking out my github projects. Appreciate it!
   </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=FrancisIGP&color=blue)
+<p align="center"> ![](https://komarev.com/ghpvc/?username=FrancisIGP&color=blue) </p>
 
 ## Miscellaneous
 
