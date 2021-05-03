@@ -13,6 +13,8 @@ I am interested on: Sports, Fitness, Technologies, Books, and lots more! Further
 
 Please see the contexts listed below for additional details.
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 ### 🧠 Degree of Knowledge: 
 - CCENT
 - CCNA Routing and Switching 
