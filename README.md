@@ -65,7 +65,7 @@ Please lend some spare time checking out my github projects. Appreciate it!
    <tr>
     <td>#2</td>
     <td><a href="https://github.com/FrancisIGP/CCNA-commands-guide">CCNA Commands guide</a></td>
-    <td>Cheat Sheet for CCNA configurations</td>
+    <td>CCNA commands cheet sheet</td>
     <td>Finished</td>
     <td>March 23, 2021</td>
   </tr>
