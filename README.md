@@ -43,6 +43,8 @@ Please lend some spare time checking out my github projects. Appreciate it!
   </a>
 </p>
 
+![Profile views](https://gpvc.arturio.dev/FrancisIGP)
+
 ## Miscellaneous
 
 <table>
@@ -75,6 +77,3 @@ Please lend some spare time checking out my github projects. Appreciate it!
     <td>March 15, 2021</td>
   </tr>
  </table>
-
-![Profile views](https://gpvc.arturio.dev/FrancisIGP)
-
