@@ -2,7 +2,15 @@
 
 # Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
-## About me
+### About me
+
+I am a high school student, willing to learn Information Technology (IT).
+
+I've been studying Networking, Programming, Security, and Linux for more than a year now. I am looking forward on further expanding and 
+consolidating my knowledge towards this field as it truly interests me. 
+
+I am interested on: Sports, Fitness, Technologies, Books, and lots more! Furtheremore, what truly interests and motivates me towards learning this filed is that,
+I'm skeptic of knowing how amazing it would be to know how computer systems actually work!
 
 ### 🧠 Degree of Knowledge: 
 - CCENT
