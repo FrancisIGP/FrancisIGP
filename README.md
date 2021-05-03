@@ -72,4 +72,4 @@ Please lend some spare time checking out my github projects. Appreciate it!
  </table>
  </br>
  
---- END --- 
+<h3 aligh="center">Thank you for visiting!<h3/> 
