@@ -2,7 +2,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/FrancisIGP)
 
-# Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
+# Hi! I'm Francis, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
 I am a high school student eager to learn about information technology (IT).
 
