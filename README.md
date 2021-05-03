@@ -11,6 +11,8 @@ I am interested on: Sports, Fitness, Technologies, Books, and lots more! Further
 
 Please see the contexts listed below for additional details.
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 ### 🧠 Tracks studied 
 
 <a href="https://www.credly.com/org/cisco/badge/cisco-certified-network-associate-routing-and-switching-ccna-routing-and-switching"><img src="https://images.credly.com/size/340x340/images/a31c0301-ff96-4cee-9435-0a4b40ce6e66/cisco_ccna_R_26S.png" alt="Track: Cisco Certified Network Associate (Routing and Switching)"
@@ -19,7 +21,6 @@ Please see the contexts listed below for additional details.
    title="Track: Cisco Certified Network Associate (Security)" width="15%" /> </a>  
 <a href="https://www.spitfire.co.uk/partners/overview/attachment/ccent-2/"><img src="https://www.spitfire.co.uk/wp-content/uploads/2018/07/CCENT-1.png" alt="Track: Cisco Certified Entry Networking Technician"
    title="Track: Cisco Certified Entry Networking Technician" width="15" /> </a>     
-
 
 ### ☕ Status
 
