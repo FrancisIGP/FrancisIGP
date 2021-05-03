@@ -32,7 +32,9 @@ Please lend some spare time checking out my github projects. Appreciate it!
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Bash](https://img.shields.io/badge/-Shell_Script-05122A?style=flat&logo=gnu-bash)&nbsp;
+![Bash](https://img.shields.io/badge/-Shell_Script-05122A?style=flat&logo=gnu-bash)&nbsp
+
+<h3 align="center"> Connect With Me: <a href="https://discordapp.com/users/448500121605505035/">Discord</a> | <a href="https://twitter.com/Francis_IGP">Twitter</a> ~  Discord Servers: <a href="https://discord.gg/G563YXspQf">3d Lock</a> | <a href="https://discord.gg/sc8n9p8w6E">Coder's Hangout</a> <h3/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -70,7 +72,5 @@ Please lend some spare time checking out my github projects. Appreciate it!
  </table>
  </br>
  
- ---
+ <h3 align="center">End<h3/>
  
-<br/><h3 align="center"> Connect With Me: <a href="https://discordapp.com/users/448500121605505035/">Discord</a> | <a href="https://twitter.com/Francis_IGP">Twitter</a> ~  Discord Servers: <a href="https://discord.gg/G563YXspQf">3d Lock</a> | <a href="https://discord.gg/sc8n9p8w6E">Coder's Hangout</a> <h3/>
-   
