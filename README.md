@@ -1,8 +1,8 @@
-## Welcome! 👋
-
 ![Capture](https://user-images.githubusercontent.com/75497349/110739111-7f131280-826b-11eb-9bac-e41e05c4453f.PNG)
 
-Hey there! Welcome to my Github page. My name is Francis, and I am interested in information technology. I am currently a high school student, and as a leisure, I am committed on developing my knowledge towards the fields of offensive/defensive defense, computer networking, and programming, all of which come under the field of information technology (IT).
+# Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
+
+## About me
 
 ### 🧠 Degree of Knowledge: 
 - CCENT
