@@ -41,7 +41,7 @@ Please lend some spare time checking out my github projects. Appreciate it!
 <p align="left">
   <a href="https://github.com/FrancisIGP">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FrancisIGP&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true"/>
-    <img height="180em" src="(https://github-readme-streak-stats.herokuapp.com/?user=anirudhbelwadi&theme=algolia)"/>
+    <img height="180em" src="(https://github-readme-streak-stats.herokuapp.com/?user=FrancisIGP&theme=algolia)"/>
   </a>
 </p>
 
