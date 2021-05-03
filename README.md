@@ -43,8 +43,6 @@ Please lend some spare time checking out my github projects. Appreciate it!
   </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=FrancisIGP&color=blue)
-
 ## Miscellaneous
 
 <table>
@@ -77,3 +75,5 @@ Please lend some spare time checking out my github projects. Appreciate it!
     <td>March 15, 2021</td>
   </tr>
  </table>
+
+![](https://komarev.com/ghpvc/?username=FrancisIGP&color=blue)
