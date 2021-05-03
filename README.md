@@ -48,7 +48,7 @@ Please lend some spare time checking out my github projects. Appreciate it!
 
 <table>
   <tr>
-    <th>#</th>        
+    <th>No.</th>        
     <th>Project Name</th>
     <th>Description</th>
     <th>Status</th>
