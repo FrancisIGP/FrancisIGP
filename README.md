@@ -8,7 +8,7 @@ I am a high school student eager to learn about information technology (IT).
 
 <p align="justify">I am interested on: Sports, Fitness, Technologies, Books, and lots more! Furthermore, what really interests and motiv-ates me to learn is that I am skeptical of how incredible it would be to understand how computer systems actually function and being able to work with it efficiently and how great it is to be able to contribute and help improve our experience in </p>
 
-Please see the contexts listed below for additional details.
+Please lend some spare time checking out my github projects. Appreciate it!
 
 <img alt="GIF" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" align="right" width="325" height="275"/>
 
