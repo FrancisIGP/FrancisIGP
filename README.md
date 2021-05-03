@@ -32,7 +32,7 @@ Please see the contexts listed below for additional details.
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Bash](https://img.shields.io/badge/-Shell_Script-05122A?style=flat&logo=gnu-bash)&nbsp;
 
-### Connect With Me: <a href="https://discordapp.com/users/448500121605505035/">Discord</a> | <a href="https://twitter.com/Francis_IGP">Twitter</a>, Discord Servers: <a href="https://discord.gg/G563YXspQf">3d Lock</a> | <a href="https://discord.gg/sc8n9p8w6E">Coder's Hangout</a>
+### Connect With Me: (<a href="https://discordapp.com/users/448500121605505035/">Discord</a> | <a href="https://twitter.com/Francis_IGP">Twitter</a>) | Discord Servers: (<a href="https://discord.gg/G563YXspQf">3d Lock</a> | <a href="https://discord.gg/sc8n9p8w6E">Coder's Hangout</a>)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
