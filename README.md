@@ -70,6 +70,5 @@ Please lend some spare time checking out my github projects. Appreciate it!
     <td>March 15, 2021</td>
   </tr>
  </table>
- </br>
  
-<h3 aligh="center">Thank you for visiting!<h3/> 
+<h3 align="center">Thank you for visiting!<h3/> 
