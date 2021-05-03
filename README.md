@@ -10,7 +10,7 @@ I am a high school student eager to learn about information technology (IT).
 
 Please see the contexts listed below for additional details.
 
-<img alt="GIF" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" align="right" width="325" height="280"/>
+<img alt="GIF" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" align="right" width="325" height="275"/>
 
 ### 🧠 Tracks studied 
 
