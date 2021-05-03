@@ -71,4 +71,4 @@ Please lend some spare time checking out my github projects. Appreciate it!
   </tr>
  </table>
  
-<h3 align="center">Thank you for visiting!<h3/> 
+<br/><h3 align="center">Thank you for visiting!<h3/> 
