@@ -33,11 +33,7 @@ Please see the contexts listed below for additional details.
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Bash](https://img.shields.io/badge/-Shell_Script-05122A?style=flat&logo=gnu-bash)&nbsp;
 
-### Connect with me
-
-   - Discord: 프랜시스 (Francis)#0434
-   - Twitter: Francis_IGP
-   -   <h4><a href="https://twitter.com/Francis_IGP">Twitter Page</a><h4/>
+### Connect with me: <a href="https://discordapp.com/users/448500121605505035/">Discord</a> | <a href="https://twitter.com/Francis_IGP">Twitter Page</a>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
