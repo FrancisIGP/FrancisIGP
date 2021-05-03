@@ -16,12 +16,12 @@ Please see the contexts listed below for additional details.
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🧠 Tracks studied 
-- CCENT, CCNA Routing & Switching / Security
+  - CCENT, CCNA Routing & Switching / Security
 
 ### ☕ Status
 
-- Learning OOP, Linux Admin, CCNP, and Network+. 
-- Writing articles as a hobby.
+  - Learning OOP, Linux Admin, CCNP, and Network+. 
+  - Writing articles as a hobby.
 
 ### 💻 Technologies:
 
