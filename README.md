@@ -14,7 +14,7 @@ Please lend some spare time checking out my github projects. Appreciate it!
 
 ### 🧠 Tracks studied 
 
-   - CCENT, CCNA R&S, CCNA Security
+   - CCENT, CCNA Routing & Switching, CCNA Security
 
 ### ☕ Status
 
