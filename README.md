@@ -22,9 +22,8 @@ Please see the contexts listed below for additional details.
 
 ### ☕ Status
 
-- Preparing for CCNP and PWK
-- Learning Java Programming
-- Writing articles/blogs
+- Learning OOP, Linux Admin, CCNP, and Network+. 
+- Writing articles as a hobby.
 
 ### 💻 Technologies:
 
