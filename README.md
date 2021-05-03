@@ -44,6 +44,7 @@ Please lend some spare time checking out my github projects. Appreciate it!
   <a href="https://github.com/FrancisIGP">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FrancisIGP&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amandewatnitrr&hide=html,css,javascript&layout=compact&langs_count=8&theme=algolia"/>
+     [![trophy](https://github-profile-trophy.vercel.app/?username=FrancisIGP)](https://github.com/ryo-ma/github-profile-trophy)
   </a>
 </p>
 
