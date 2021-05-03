@@ -22,6 +22,7 @@ Please see the contexts listed below for additional details.
 <a href="https://www.spitfire.co.uk/partners/overview/attachment/ccent-2/"><img src="https://www.spitfire.co.uk/wp-content/uploads/2018/07/CCENT-1.png" alt="Track: Cisco Certified Entry Networking Technician"
    title="Track: Cisco Certified Entry Networking Technician" width="15" /> </a>     
 
+
 ### ☕ Status
 
   - Learning OOP, Linux Admin, CCNP, and Network+. 
