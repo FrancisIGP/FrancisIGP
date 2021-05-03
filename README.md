@@ -14,9 +14,7 @@ Please see the contexts listed below for additional details.
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🧠 Tracks studied 
-      <li>
-        <b>CCENT, CCNA R&S, CCNA Security</b>
-      </li>
+
    - CCENT, CCNA R&S, CCNA Security
 
 ### ☕ Status
@@ -47,6 +45,27 @@ Please see the contexts listed below for additional details.
 </p>
 
 ## Miscellaneous
+
+<table>
+  <tr>
+    <th>No.#</th>        
+    <th>Project</th>
+    <th>Description</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td>#1</td>
+    <td><a href="https://github.com/FrancisIGP/CCNA-Document">CCNA Document</a></td>
+    <td>CCNA Document I wrote (Resource)</td>
+    <td>Work in Progress</td>
+  </tr>
+  <tr>
+    <td>#2</td>
+    <td><a href="https://github.com/FrancisIGP/Miscellaneous">Miscellaneous Files</a></td>
+    <td>Extra files</td>
+    <td>Still adding</td>
+  </tr>
+ </table>
 
 <details>
   <summary>My Projects</summary>
