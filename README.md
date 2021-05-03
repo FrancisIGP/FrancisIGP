@@ -22,7 +22,7 @@ Please see the contexts listed below for additional details.
   - Learning OOP, Linux Admin, CCNP, and Network+. 
   - Writing articles as a hobby.
 
-### 💻 Technologies:
+### 💻 Technologies
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -32,6 +32,12 @@ Please see the contexts listed below for additional details.
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Bash](https://img.shields.io/badge/-Shell_Script-05122A?style=flat&logo=gnu-bash)&nbsp;
+
+### Connect with me
+
+   - Discord: 프랜시스 (Francis)#0434
+   - Twitter: Francis_IGP
+   -   <h4><a href="https://twitter.com/Francis_IGP">Twitter Page</a><h4/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -48,10 +54,4 @@ Please see the contexts listed below for additional details.
   <summary>Current Projects</summary>
   <h3><a href="https://github.com/FrancisIGP/CCNA-Document">CCNA Document (Project #1)</a><h4/>
   <h3><a href="https://github.com/FrancisIGP/Miscellaneous">Miscellaneous (Extra)</a><h4/>
-</details>
-
-<details>
-  <summary>How to reach me</summary>
-  <h3><a href="https://twitter.com/Francis_IGP">Twitter Page</a><h3/>
-  Discord ⇢ Francis#7904
 </details>
