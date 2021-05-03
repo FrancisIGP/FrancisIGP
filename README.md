@@ -9,7 +9,7 @@ I am a high school student eager to learn about information technology (IT).
 For over a year, I've been studying Networking, Programming, Security, and Linux. I am looking forward to extending and consolidating my knowledge in this 
 field because it piques my interest. Finally, I'm inclined to develop a career in this field.
 
-I am interested on: Sports, Fitness, Technologies, Books, and lots more! Furthermore, what really interests and motivates me to learn is that 
+I am interested on: Sports, Fitness, Technologies, Books, and lots more! Furthermore, what really interests and motivates me to learn is that <br/>
 I am skeptical of how incredible it would be to understand how computer systems actually function and being able to work with it efficiently!
 
 Please see the contexts listed below for additional details.
