@@ -4,13 +4,14 @@
 
 ### About me
 
-I am a high school student, willing to learn Information Technology (IT).
+I am a high school student eager to learn about information technology (IT).
 
-I've been studying Networking, Programming, Security, and Linux for more than a year now. I am looking forward on further expanding and 
-consolidating my knowledge towards this field as it truly interests me. 
+For over a year, I've been studying Networking, Programming, Security, and Linux. I am looking forward to extending and consolidating my knowledge in this field because it piques my interest. Finally, I'm inclined to develop a career in this field.
 
-I am interested on: Sports, Fitness, Technologies, Books, and lots more! Furtheremore, what truly interests and motivates me towards learning this filed is that,
-I'm skeptic of knowing how amazing it would be to know how computer systems actually work!
+I am interested on: Sports, Fitness, Technologies, Books, and lots more! Furthermore, what really interests and motivates me to learn is that I am skeptical 
+of how incredible it would be to understand how computer systems actually function and being able to work with it efficiently!
+
+Please see the contexts listed below for additional details.
 
 ### 🧠 Degree of Knowledge: 
 - CCENT
