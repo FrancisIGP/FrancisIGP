@@ -18,8 +18,8 @@ Please see the contexts listed below for additional details.
 
 ### ☕ Status
 
-  - Learning OOP, Linux Admin, CCNP, and Network+. 
-  - Writing articles as a hobby.
+  - Learning OOP, Linux Admin, CCNP, and Network+
+  - Writing articles as a hobby
 
 ### 💻 Technologies
 
