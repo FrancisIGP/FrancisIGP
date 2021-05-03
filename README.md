@@ -63,12 +63,6 @@ Please see the contexts listed below for additional details.
     <td>#2</td>
     <td><a href="https://github.com/FrancisIGP/Miscellaneous">Miscellaneous Files</a></td>
     <td>Miscellaneous repo. where extra files are stored.</td>
-    <td>Still adding files</td>
+    <td>Appending</td>
   </tr>
  </table>
-
-<details>
-  <summary>My Projects</summary>
-  <h3><a href="https://github.com/FrancisIGP/CCNA-Document">CCNA Document (Project #1)</a><h4/>
-  <h3><a href="https://github.com/FrancisIGP/Miscellaneous">Miscellaneous (Extra)</a><h4/>
-</details>
