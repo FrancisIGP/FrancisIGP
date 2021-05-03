@@ -62,8 +62,15 @@ Please lend some spare time checking out my github projects. Appreciate it!
     <td>Work in Progress</td>
     <td>April 4, 2021</td>
   </tr>
-  <tr>
+   <tr>
     <td>#2</td>
+    <td><a href="https://github.com/FrancisIGP/CCNA-commands-guide">CCNA Commands guide</a></td>
+    <td>Cheat Sheet for CCNA configurations</td>
+    <td>Finished</td>
+    <td>March 23, 2021</td>
+  </tr>
+  <tr>
+    <td>#3</td>
     <td><a href="https://github.com/FrancisIGP/Miscellaneous">Miscellaneous Files</a></td>
     <td>Miscellaneous repo. where extra files are stored</td>
     <td>Appending</td>
