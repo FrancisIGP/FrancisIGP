@@ -2,9 +2,9 @@
 
 ![Profile views](https://gpvc.arturio.dev/FrancisIGP)
 
-# Hi! I'm Francis, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
+# Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
-I am a high school student eager to learn about information technology (IT).
+Hi, my name is Francis! I am a high school student eager to learn about information technology (IT).
 
 <p align="justify">For over a year, I've been studying Networking, Programming, Security, and Linux. I am looking forward to extending and consolidating my knowledge in this field because it piques my interest. Finally, I'm inclined to develop a career in this field.</p>
 
