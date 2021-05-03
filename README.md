@@ -72,7 +72,10 @@ Please lend some spare time checking out my github projects. Appreciate it!
  
  ---
  
- <h3 align="center"> Connect With Me: <a href="https://discordapp.com/users/448500121605505035/">Discord</a> | <a href="https://twitter.com/Francis_IGP">Twitter</a><h3/>
- <h3 align="center">Discord Servers: <a href="https://discord.gg/G563YXspQf">3d Lock</a> | <a href="https://discord.gg/sc8n9p8w6E">Coder's Hangout</a><h3/>
+ <h3 align="center"> Connect With Me: <h3/>
+ <h3 align="center"> <a href="https://discordapp.com/users/448500121605505035/">Discord</a> | <a href="https://twitter.com/Francis_IGP">Twitter</a> <h3/>
+    
+  <h3 align="center"> You can find me on the following Discord servers: <h3/>   
+ <h3 align="center"> <a href="https://discord.gg/G563YXspQf">3d Lock</a> | <a href="https://discord.gg/sc8n9p8w6E">Coder's Hangout</a><h3/>
  
  
