@@ -70,5 +70,3 @@ Please lend some spare time checking out my github projects. Appreciate it!
     <td>March 15, 2021</td>
   </tr>
  </table>
- 
- [![trophy](https://github-profile-trophy.vercel.app/?username=FrancisIGP)](https://github.com/ryo-ma/github-profile-trophy)
