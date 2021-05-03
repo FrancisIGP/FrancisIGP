@@ -10,7 +10,7 @@ I am a high school student eager to learn about information technology (IT).
 
 Please see the contexts listed below for additional details.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" align="right"/>
 
 ### 🧠 Tracks studied 
 
