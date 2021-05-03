@@ -43,7 +43,7 @@ Please lend some spare time checking out my github projects. Appreciate it!
   </a>
 </p>
 
-![Profile views](https://gpvc.arturio.dev/FrancisIGP)
+![](https://komarev.com/ghpvc/?username=FrancisIGP&color=blue)
 
 ## Miscellaneous
 
