@@ -43,7 +43,7 @@ Please lend some spare time checking out my github projects. Appreciate it!
   </a>
 </p>
 
-## Miscellaneous
+## 💡 Miscellaneous
 
 <table>
   <tr>
