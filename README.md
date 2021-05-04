@@ -6,9 +6,9 @@ Hi, my name is Francis! I am a high school student eager to learn about informat
 
 <p align="justify">For over a year, I've been studying Networking, Programming, Security, and Linux. I am looking forward to extending and consolidating my knowledge in this field because it catches my interest. Finally, I'm inclined to develop a career in this field in the future.</p>
 
-<p align="justify">I am interested on: Sports, Coffee, Netflix, Fitness, Technologies, Books, and lots more! Furthermore, what really interests and motivates me to learn is that I am skeptical of how incredible it would be to understand how computer systems actually function and being able to work with it efficiently. How great it would be able to contribute and help improve our experience in technologies.</p>
+<p align="justify">I am interested on: Sports, Coffee, Netflix, Fitness, Technologies, Books, and lots more! Furthermore, what really interests and motivates me to learn is that I am skeptical of how incredible it would be to understand how computer systems actually function and being able to work with it efficiently. Also, how great it would be able to contribute and help improve our experience in technologies.</p>
 
-Please check out my Github projects if you free time. Appreciate it!  <img alt="GIF" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" align="right" width="325" height="310"/>
+Please check out my Github projects if you have free time. Appreciate it!  <img alt="GIF" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" align="right" width="325" height="310"/>
 
 ### 🧠 Tracks studied 
 
