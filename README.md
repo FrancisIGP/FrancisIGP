@@ -8,7 +8,7 @@ Hi, my name is Francis! I am a high school student eager to learn about informat
 
 <p align="justify">I am interested on: Sports, Fitness, Technologies, Books, and lots more! Furthermore, what really interests and motiv-ates me to learn is that I am skeptical of how incredible it would be to understand how computer systems actually function and being able to work with it efficiently and how great it is to be able to contribute and help improve our experience in </p>
 
-Please lend some spare time checking out my github projects. Appreciate it!  <img alt="GIF" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" align="right" width="325" height="320"/>
+Please lend some spare time checking out my github projects. Appreciate it!  <img alt="GIF" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" align="right" width="325" height="315"/>
 
 ### 🧠 Tracks studied 
 
