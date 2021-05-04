@@ -10,7 +10,7 @@ Hi, my name is Francis! I am a high school student eager to learn about informat
 
 Please lend some spare time checking out my github projects. Appreciate it!
 
-<img alt="GIF" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" align="right" width="325" height="275"/>
+<img alt="GIF" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" align="right" width="325" height="265"/>
 
 ### 🧠 Tracks studied 
 
