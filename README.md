@@ -41,7 +41,7 @@ Please check out my Github projects if you have free time. Appreciate it!  <img 
   </a>
 </p>
 
-## 📚 Projects
+## 📚 Github Projects
 
 <table>
   <tr>
