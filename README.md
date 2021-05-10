@@ -30,14 +30,14 @@ If you have any spare time, please take a look at my Github projects. Appreciate
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Bash](https://img.shields.io/badge/-Shell_Script-05122A?style=flat&logo=gnu-bash)&nbsp;
 
-### Connect With Me: <a href="https://discordapp.com/users/448500121605505035/">Discord</a> | <a href="https://twitter.com/Francis_IGP">Twitter</a> ~  Discord Servers: <a href="https://discord.gg/G563YXspQf">3d Lock</a> | <a href="https://discord.gg/sc8n9p8w6E">Coder's Hangout</a> | <a href="https://discord.com/invite/VMSh7qY">Networking</a> 
+<h3><a href="https://discordapp.com/users/448500121605505035/">Discord</a> | <a href="https://github.com/FrancisIGP">Github</a> | <a href="https://twitter.com/Francis_IGP">Twitter</a> ~  Discord Servers: <a href="https://discord.gg/G563YXspQf">3d Lock</a> | <a href="https://discord.gg/sc8n9p8w6E">Coder's Hangout</a> | <a href="https://discord.com/invite/VMSh7qY">Networking</a></h3> 
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
   <a href="https://github.com/FrancisIGP">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FrancisIGP&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FrancisIGP&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
