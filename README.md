@@ -72,6 +72,13 @@ If you have any spare time, please take a look at my Github projects. Appreciate
     <td>Appending</td>
     <td>March 15, 2021</td>
   </tr>
+  <tr>
+    <td>#4</td>
+    <td><a href="https://github.com/FrancisIGP/Password-Generator">Password Manager</a></td>
+    <td>Command Line Interface (CLI) based Password Manager.</td>
+    <td>BETA</td>
+    <td>May 10, 2021</td>
+  </tr>
  </table>
 
 ![](https://komarev.com/ghpvc/?username=FrancisIGP&color=blue)
