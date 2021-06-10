@@ -43,7 +43,6 @@ If you have any spare time, please take a look at my Github projects. Appreciate
   </a>
 </p>
    
-<br>
 </details>
 
 <details>
@@ -90,5 +89,4 @@ If you have any spare time, please take a look at my Github projects. Appreciate
    
    ![](https://komarev.com/ghpvc/?username=FrancisIGP&color=blue)
    
-<br>
 </details>
