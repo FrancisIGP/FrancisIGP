@@ -42,6 +42,7 @@ If you have any spare time, please take a look at my Github projects. Appreciate
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FrancisIGP&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
+![](https://komarev.com/ghpvc/?username=FrancisIGP&color=blue)
    
 <br>
 </details>
@@ -90,5 +91,3 @@ If you have any spare time, please take a look at my Github projects. Appreciate
    
 <br>
 </details>
-
-![](https://komarev.com/ghpvc/?username=FrancisIGP&color=blue)
