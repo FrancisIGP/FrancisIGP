@@ -1,4 +1,4 @@
-<!-- ![Blue White Gold Traditional College Graduation Outdoor Banner](https://user-images.githubusercontent.com/75497349/116903076-83a5e700-ac6e-11eb-847b-958610786a0f.png) -->
+![Blue White Gold Traditional College Graduation Outdoor Banner](https://user-images.githubusercontent.com/75497349/116903076-83a5e700-ac6e-11eb-847b-958610786a0f.png)
 
 # Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
