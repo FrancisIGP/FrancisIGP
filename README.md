@@ -31,7 +31,10 @@ Connect with me: <a href="https://discordapp.com/users/448500121605505035/">Disc
 
 ### 💡 Miscellaneous
 
-<details>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FrancisIGP&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FrancisIGP&layout=compact&langs_count=8&theme=algolia"/>
+
+<!-- <details>
 <summary>⚙️ GitHub Analytics</summary>
 <br>
 
@@ -86,4 +89,4 @@ Connect with me: <a href="https://discordapp.com/users/448500121605505035/">Disc
   </tr>
  </table>
    
-</details>
+</details> -->
