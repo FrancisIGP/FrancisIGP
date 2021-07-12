@@ -31,7 +31,7 @@ Connect with me: <a href="https://discordapp.com/users/448500121605505035/">Disc
 
 ### Miscellaneous
 
-<details>
+<!-- <details>
 <summary>⚙️ GitHub Analytics</summary>
 <br>
 
@@ -42,7 +42,7 @@ Connect with me: <a href="https://discordapp.com/users/448500121605505035/">Disc
   </a>
 </p>
    
-</details>
+</details> -->
 
 <details>
 <summary>📚 Github Projects</summary>
