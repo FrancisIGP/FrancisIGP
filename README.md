@@ -10,11 +10,9 @@ I am passionate about sports, fitness, writing, technology, and video games. The
 
 I'm looking forward to meeting and working with others who share my interests.
 
-### ☕ Status
-
-  - 🧠 Learning Programming, Network+, Security+, A+, Linux+, CCNA, CCNP
-  - 😄 Pronouns: he, him, his
-  - 🌏 Southeast Asian
+- 🧠 Learning Programming, Network+, Security+, A+, Linux+, CCNA, CCNP
+- 😄 Pronouns: he, him, his
+- 🌏 Southeast Asian
 
 ### 💻 Technologies
 
