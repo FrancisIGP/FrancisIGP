@@ -2,11 +2,11 @@
 
 # Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
-<p align="justify">Hello! I'm Francis, a sophomore in high school with a vast interest in information technology. My long-term objective is to hone my ability to solve real-world problems and broaden the scope of my comprehension in order to steer my career in this direction. For nearly a year and a half, I've been accumulating disparate resources and articles from the internet in order to continuously learn new things; this includes networking, computer science, security engineering, and Linux environments. Up until today, I'm still pursuing to learn new and interesting topics to further build-up my skills.</p>
+Hello! I'm Francis, a sophomore in high school with a vast interest in information technology. My long-term objective is to hone my ability to solve real-world problems and broaden the scope of my comprehension in order to steer my career in this direction. For nearly a year and a half, I've been accumulating disparate resources and articles from the internet in order to continuously learn new things; this includes networking, computer science, security engineering, and Linux environments. Up until today, I'm still pursuing to learn new and interesting topics to further build-up my skills.
 
-<p align="justify">What motivates me to continue learning Information Technology is the desire to comprehend technologies, administrative features, and possibly contribute to our world as a result of the ever-growing advancement of technology over the years. With the ability to gain a thorough understanding of technologies during my early years, I will be able to assist and inspire my future colleagues and build a successful career.</p>
+What motivates me to continue learning Information Technology is the desire to comprehend technologies, administrative features, and possibly contribute to our world as a result of the ever-growing advancement of technology over the years. With the ability to gain a thorough understanding of technologies during my early years, I will be able to assist and inspire my future colleagues and build a successful career.
 
-<p align="justify">I am passionate about sports, fitness, technology, and video games. These are the activities that keep me entertained and rekindle my enthusiasm, which in turn helps me stay motivated to constantly acquire new knowledge!</p>
+I am passionate about sports, fitness, technology, and video games. These are the activities that keep me entertained and rekindle my enthusiasm, which in turn helps me stay motivated to constantly acquire new knowledge!
 
 I'm looking forward to meeting and working with others who share my interests.
 
