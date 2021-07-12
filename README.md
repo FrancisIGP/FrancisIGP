@@ -2,7 +2,7 @@
 
 # Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
-Hello! I'm Francis, a sophomore in high school with a vast interest in information technology. My long-term objective is to hone my ability to solve real-world problems and broaden the scope of my comprehension in order to steer my career in this direction. For nearly a year and a half, I've been accumulating disparate resources and articles from the internet in order to continuously learn new things; this includes networking, computer science, security engineering, and Linux environments.
+<p align="justify">Hello! I'm Francis, a sophomore in high school with a vast interest in information technology. My long-term objective is to hone my ability to solve real-world problems and broaden the scope of my comprehension in order to steer my career in this direction. For nearly a year and a half, I've been accumulating disparate resources and articles from the internet in order to continuously learn new things; this includes networking, computer science, security engineering, and Linux environments.</p>
 
 <p align="justify">I am interested on: Sports, Coffee, Netflix, Fitness, Technologies, Books, and lots more! Furthermore, what really interests and motivates me to learn is my skepticism about how amazing it would be to understand how computer systems actually operate and to be able to work effectively with them. Additionally, how great it will be to be able to contribute to and help develop our technological experience.</p>
 
