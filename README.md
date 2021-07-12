@@ -6,18 +6,15 @@ Hello! I'm Francis, a sophomore in high school with a vast interest in informati
 
 What motivates me to continue learning Information Technology is the desire to comprehend technologies, administrative features, and possibly contribute to our world as a result of the ever-growing advancement of technology over the years. With the ability to gain a thorough understanding of technologies during my early years, I will be able to assist and inspire my future colleagues and build a successful career.
 
-I am passionate about sports, fitness, technology, and video games. These are the activities that keep me entertained and rekindle my enthusiasm, which in turn helps me stay motivated to constantly acquire new knowledge!
+I am passionate about sports, fitness, writing, technology, and video games. These are the activities that keep me entertained and rekindle my enthusiasm, which in turn helps me stay motivated to constantly acquire new knowledge!
 
 I'm looking forward to meeting and working with others who share my interests.
 
-### 🧠 Tracks studied 
-
-   - CCENT, CCNA Routing & Switching, CCNA Security
-
 ### ☕ Status
 
-  - Learning OOP, Linux Admin, CCNP, and Network+
-  - Writing articles as a hobby
+  - 🧠 Learning Programming, Network+, Security+, A+, Linux+, CCNA, CCNP
+  - 😄 Pronouns: he, him, his
+  - 🌏 Southeast Asian
 
 ### 💻 Technologies
 
