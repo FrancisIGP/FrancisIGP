@@ -2,6 +2,8 @@
 
 # Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
+![](https://komarev.com/ghpvc/?username=FrancisIGP&color=blue) [![Github](https://img.shields.io/github/followers/FrancisIGP?label=Follow&style=social)](https://github.com/FrancisIGP)
+
 Hello! I'm [Francis](https://github.com/FrancisIGP), a sophomore in high school with a vast interest in [information technology](https://en.wikipedia.org/wiki/Information_technology). My long-term objective is to hone my ability to solve real-world problems and broaden the scope of my comprehension in order to steer my career in this direction. For nearly a year and a half, I've been accumulating disparate resources and articles from the internet in order to continuously learn new things; this includes networking, computer science, security engineering, and Linux environments. Up until today, I'm still pursuing to learn new and interesting topics to further build-up my skills.
 
 What motivates me to continue learning Information Technology is the desire to comprehend technologies, administrative features, and possibly contribute to our world as a result of the ever-growing advancement of technology over the years. With the ability to gain a thorough understanding of technologies during my early years, I will be able to assist and inspire my future colleagues and build a successful career.
@@ -83,7 +85,5 @@ Connect with me: <a href="https://discordapp.com/users/448500121605505035/">Disc
     <td>May 10, 2021</td>
   </tr>
  </table>
-   
-   ![](https://komarev.com/ghpvc/?username=FrancisIGP&color=blue)
    
 </details>
