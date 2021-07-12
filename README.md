@@ -18,7 +18,7 @@ I'm looking forward to meeting and working with others who share my interests.
 
 Connect with me: <a href="https://discordapp.com/users/448500121605505035/">Discord</a> | <a href="https://github.com/FrancisIGP">Github</a> ~  Discord Servers: <a href="https://discord.gg/G563YXspQf">3d Lock</a> | <a href="https://discord.gg/sc8n9p8w6E">Coder's Hangout</a> | <a href="https://discord.com/invite/VMSh7qY">Networking</a>
 
-### 💻 Technologies
+<!-- ### 💻 Technologies
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -27,11 +27,11 @@ Connect with me: <a href="https://discordapp.com/users/448500121605505035/">Disc
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Bash](https://img.shields.io/badge/-Shell_Script-05122A?style=flat&logo=gnu-bash)&nbsp;
+![Bash](https://img.shields.io/badge/-Shell_Script-05122A?style=flat&logo=gnu-bash)&nbsp; -->
 
 ### Miscellaneous
 
-<!-- <details>
+<details>
 <summary>⚙️ GitHub Analytics</summary>
 <br>
 
@@ -42,7 +42,7 @@ Connect with me: <a href="https://discordapp.com/users/448500121605505035/">Disc
   </a>
 </p>
    
-</details> -->
+</details> 
 
 <details>
 <summary>📚 Github Projects</summary>
