@@ -30,7 +30,7 @@ Connect with me: <a href="https://discordapp.com/users/448500121605505035/">Disc
 ![Bash](https://img.shields.io/badge/-Shell_Script-05122A?style=flat&logo=gnu-bash)&nbsp; -->
 
 <details>
-<summary>⚙️ GitHub Analytics</summary>
+  <summary><h3>⚙️ GitHub Analytics</h3></summary>
 <br>
 
 <p align="left">
