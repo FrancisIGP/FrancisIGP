@@ -29,8 +29,6 @@ Connect with me: <a href="https://discordapp.com/users/448500121605505035/">Disc
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Bash](https://img.shields.io/badge/-Shell_Script-05122A?style=flat&logo=gnu-bash)&nbsp; -->
 
-### 💡 Miscellaneous
-
 <details>
   <summary>⚙️ GitHub Analytics</summary>
 <br>
