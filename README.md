@@ -8,6 +8,19 @@ Hello! My name is **Francis**, aka [FrancisIGP](https://github.com/FrancisIGP), 
 
 What motivates me to continue learning **Information Technology** is the desire to comprehend technology administration, configuration, operation, etc., and possibly contribute to our world as a result of the ever-growing advancement of technology throughout the years. With the ability to gain a thorough understanding of technologies during my early years, I will be able to assist and inspire my future colleagues and build a successful career.
 
+
+Hello! My name is Francis, aka FrancisIGP, a sophomore in high school with a vast interest in Information Technology. My long-term
+objective is to hone my ability to solve real-world problems and broaden the scope of my comprehension in order to steer my career
+in this direction. For nearly a year and a half, I've been accumulating disparate resources and articles from the internet in order 
+to continuously learn new things; this includes network engineering, computer science, security engineering, and Linux environments.
+Up until today, I'm still pursuing to learn new and interesting topics to further build-up my skills.
+
+What motivates me to continue learning Information Technology is the desire to comprehend technology administration, configuration,
+operation, etc., and possibly contribute to our world as a result of the ever-growing advancement of technology throughout the years.
+With the ability to gain a thorough understanding of technologies during my early years, I will be able to assist and inspire my fut-
+ure colleagues and build a successful career.
+
+
 I am passionate about **sports, fitness, writing, technology, and video games**. These are the activities that keep me entertained and rekindle my enthusiasm, which helps me stay motivated to acquire new knowledge on a continual basis!
 
 I'm looking forward to meeting and collaborating with others who share my interests.
