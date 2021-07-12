@@ -10,7 +10,7 @@ What motivates me to continue learning **Information Technology** is the desire 
 
 I am passionate about **sports, fitness, writing, technology, and video games**. These are the activities that keep me entertained and rekindle my enthusiasm, which helps me stay motivated to acquire new knowledge on a continual basis!
 
-I'm looking forward to meeting and working with others who share my interests.
+I'm looking forward to meeting and collaborating with others who share my interests.
 
 - 🧠 Learning Programming, Network+, Security+, A+, Linux+, CCNA, CCNP
 - 😄 Pronouns: he, him, his
