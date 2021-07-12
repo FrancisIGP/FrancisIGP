@@ -8,7 +8,7 @@ Hello! My name is **Francis**, aka [FrancisIGP](https://github.com/FrancisIGP), 
 
 What motivates me to continue learning **Information Technology** is the desire to comprehend technology administration, configuration, operation, etc., and possibly contribute to our world as a result of the ever-growing advancement of technology throughout the years. With the ability to gain a thorough understanding of technologies during my early years, I will be able to assist and inspire my future colleagues and build a successful career.
 
-I am passionate about **sports, fitness, writing, technology, and video games**. These are the activities that keep me entertained and rekindle my enthusiasm, which helps me stay motivated to acquire new knowledge on a continual basis!
+I am passionate about **sports, fitness, writing, technology, and video games**. These are the activities that keep me entertained and rekindle my enthusiasm, which helps me stay motivated to learn new things on a continual basis!
 
 I'm looking forward to meeting and collaborating with others who share my interests.
 
