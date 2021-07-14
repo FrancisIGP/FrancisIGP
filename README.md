@@ -4,13 +4,13 @@
 
 ![](https://komarev.com/ghpvc/?username=FrancisIGP&color=blue) [![Github](https://img.shields.io/github/followers/FrancisIGP?label=Follow&style=social)](https://github.com/FrancisIGP)
 
-Hello! My name is [Francis](https://github.com/FrancisIGP), I'm a **high school**  student with a vast interest in [Information Technology](https://en.wikipedia.org/wiki/Information_technology). My long-term objective is to hone my ability to solve real-world problems and broaden the scope of my comprehension in order to steer my career in this direction. For nearly a year and a half, I've been accumulating disparate resources and articles from the internet in order to continuously learn new things; I'm primarily interested in the following areas of information technology: **network engineering, computer science, security engineering, and Linux environments**. Until today, I've continued to pursue new and interesting topics in order to further consolidate my knowledge.
+Hello! Welcome to my Github profile. My name is [Francis](https://github.com/FrancisIGP), I'm a **high school**  student with a vast interest in [Information Technology](https://en.wikipedia.org/wiki/Information_technology). My long-term objective is to hone my ability to solve real-world problems and broaden the scope of my comprehension in order to steer my career in this direction. For nearly a year and a half, I've been accumulating disparate resources and articles from the internet in order to continuously learn new things; I'm primarily interested in the following areas of information technology: **network engineering, computer science, security engineering, and Linux environments**. Until today, I've continued to pursue new and interesting topics in order to further consolidate my knowledge.
 
 What motivates me to continue learning **Information Technology** is the desire to comprehend technology administration, configuration, operation, and much more! And possibly contribute to our world as a result of the ever-growing advancement of technology throughout the years. With the ability to gain a thorough understanding of technologies, I will be able to assist and inspire my future colleagues and build a successful career.
 
-I am passionate about **sports, fitness, writing, technology, and video games**. These are the activities that keep me entertained and rekindle my enthusiasm, which helps me stay motivated to learn new things on a continual basis!
+I am passionate about **sports, fitness, writing/reading, technology, and video games**. These are the activities that keep me entertained and rekindle my enthusiasm, which helps me stay motivated to learn new things on a continual basis!
 
-I'm looking forward to meeting and collaborating with others who share my interests.
+I'm looking forward to meeting and collaborating with others who share my interests. If you're interested, you're welcome to browse my Github projects. I publish content such as blogs and open-source programs. I appreciate your time in reading my profile background!
 
 - 🧠 Learning Programming, Network+, Security+, A+, Linux+, CCNA, CCNP
 - 😄 Pronouns: he, him, his
