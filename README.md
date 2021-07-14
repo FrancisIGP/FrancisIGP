@@ -10,7 +10,7 @@ What motivates me to continue learning **Information Technology** is the desire 
 
 I am passionate about **sports, fitness, writing/reading, technology, and video games**. These are the activities that keep me entertained and rekindle my enthusiasm, which helps me stay motivated to learn new things on a continual basis! I'm looking forward to meeting and collaborating with others who share my interests. 
 
-If you're interested, you're welcome to browse my Github projects. I publish content such as documents and open-source programs. Lastly, I genuinely appreciate your time in reading my profile background!
+If you're interested, you're welcome to browse my Github projects. I publish content such as documents and open-source programs. Lastly, I genuinely appreciate your time and effort in reading my profile background!
 
 ### Supplementary Information:
 
