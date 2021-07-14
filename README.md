@@ -12,7 +12,7 @@ I am passionate about **sports, fitness, writing/reading, technology, and video 
 
 If you're interested, you're welcome to browse my Github projects. I publish content such as documents and open-source programs. I appreciate your time in reading my profile background!
 
-### Supplementary information:
+### ❓ Supplementary information:
 
 - 🧠 Learning Programming, Network+, Security+, A+, Linux+, CCNA, CCNP
 - 😄 Pronouns: he, him, his
