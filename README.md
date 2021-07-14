@@ -8,9 +8,9 @@ Hello! Welcome to my Github profile. My name is [Francis](https://github.com/Fra
 
 What motivates me to continue learning **Information Technology** is the desire to comprehend technology administration, configuration, operation, and much more! And possibly contribute to our world as a result of the ever-growing advancement of technology throughout the years. With the ability to gain a thorough understanding of technologies, I will be able to assist and inspire my future colleagues and build a successful career.
 
-I am passionate about **sports, fitness, writing/reading, technology, and video games**. These are the activities that keep me entertained and rekindle my enthusiasm, which helps me stay motivated to learn new things on a continual basis!
+I am passionate about **sports, fitness, writing/reading, technology, and video games**. These are the activities that keep me entertained and rekindle my enthusiasm, which helps me stay motivated to learn new things on a continual basis! I'm looking forward to meeting and collaborating with others who share my interests. 
 
-I'm looking forward to meeting and collaborating with others who share my interests. If you're interested, you're welcome to browse my Github projects. I publish content such as blogs and open-source programs. I appreciate your time in reading my profile background!
+If you're interested, you're welcome to browse my Github projects. I publish content such as blogs and open-source programs. I appreciate your time in reading my profile background!
 
 - 🧠 Learning Programming, Network+, Security+, A+, Linux+, CCNA, CCNP
 - 😄 Pronouns: he, him, his
