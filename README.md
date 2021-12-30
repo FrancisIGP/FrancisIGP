@@ -1,6 +1,4 @@
-
-![EHXEOFiUYAAnu25](https://user-images.githubusercontent.com/75497349/147771200-d1e6d631-79c1-4126-97c4-6d748d3d75e5.jpg)
-
+![3ZEmsMA](https://user-images.githubusercontent.com/75497349/147770803-b1b2274d-2159-4a94-843d-a0ebecffa0ed.png)
 
 # Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
