@@ -1,22 +1,20 @@
 ![3ZEmsMA](https://user-images.githubusercontent.com/75497349/147770803-b1b2274d-2159-4a94-843d-a0ebecffa0ed.png)
 
-# Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
+# Hello, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
 ![](https://komarev.com/ghpvc/?username=FrancisIGP&color=blue) [![Github](https://img.shields.io/github/followers/FrancisIGP?label=Follow&style=social)](https://github.com/FrancisIGP)
 
-My name is [Francis](https://github.com/FrancisIGP), I'm a **high school**  student with a vast interest in [Information Technology](https://en.wikipedia.org/wiki/Information_technology). My long-term objective is to hone my ability to solve real-world problems and broaden the scope of my comprehension in order to steer my career in this direction. For more than a year now, I've been investing my time accumulating disparate resources and articles from the internet in order to continuously learn new things; I'm primarily interested in the following areas of IT: **network engineering, computer science, security engineering, computer anatomy, and Linux environments**. Until today, I've continued to pursue new and interesting topics in order to further consolidate my knowledge.
+My name is [Francis](https://github.com/FrancisIGP). My long-term objective is to hone my ability to solve real-world problems and broaden the scope of my comprehension in order to steer my career in this direction. For few years, I've been investing my time accumulating disparate resources and articles from the internet in order to continuously learn new things; I'm primarily interested in the following areas of IT: **network engineering, computer science, security engineering, computer anatomy, and Linux environments**. Until today, I've continued to pursue new and interesting topics in order to further consolidate my knowledge.
 
-What motivates me to continue learning **Information Technology** is the desire to comprehend technology administration, configuration, operation, and much more! And possibly contribute to our world as a result of the ever-growing advancement of technology throughout the years. With the ability to gain a thorough understanding of technologies, I will be able to assist and inspire my future colleagues and build a successful career.
+What motivates me to continue learning **Information Technology** is the desire to contribute real world problems as a result of the ever-growing advancement of technology throughout the years. With the ability to gain a thorough understanding of technologies, I will be able to assist and inspire my future colleagues and build a successful career.
 
-I am passionate about **sports, fitness, writing/reading, technology, and video games**. These are the activities that keep me entertained and rekindle my enthusiasm, which helps me stay motivated to learn new things on a continual basis! I'm looking forward to meeting and collaborating with others who share my interests. 
-
-If you're interested, you're welcome to browse my Github projects. I publish content such as documents and open-source programs. Lastly, I genuinely appreciate your time and effort in reading my profile background!
+If you're interested, you're welcome to browse through my Github projects. I publish contents such as documents and open-source programs.
 
 ### Supplementary Information:
 
-- 🧠 Learning Programming, Network+, Security+, A+, Linux+, CCNA, CCNP
-- 😄 Pronouns: he, him, his
 - 🌏 Southeast Asian
+- 😄 Pronouns: he, him, his
+- 🧠 Learning Computer Science, Computer Security, and Network Engineering.
 
 <h4><b>Connect with me:</b> <a href="https://discordapp.com/users/448500121605505035/">Discord</a> | <a href="https://github.com/FrancisIGP">Github</a> ~  <b>Discord Servers:</b> <a href="https://discord.gg/G563YXspQf">3d Lock</a> | <a href="https://discord.gg/sc8n9p8w6E">Coder's Hangout</a> | <a href="https://discord.com/invite/VMSh7qY">Networking</a></h4>
 
