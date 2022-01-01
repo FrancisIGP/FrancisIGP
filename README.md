@@ -1,10 +1,10 @@
 ![3ZEmsMA](https://user-images.githubusercontent.com/75497349/147770803-b1b2274d-2159-4a94-843d-a0ebecffa0ed.png)
 
-# Hello, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
+# Welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
 ![](https://komarev.com/ghpvc/?username=FrancisIGP&color=blue) [![Github](https://img.shields.io/github/followers/FrancisIGP?label=Follow&style=social)](https://github.com/FrancisIGP)
 
-My name is [Francis](https://github.com/FrancisIGP). My long-term objective is to hone my capacity to tackle real-world problems and broaden my cognitive span in order to steer my career in this path. I'm primarily interested in the following areas of IT: **network engineering, computer science, computer security, computer anatomy, and Linux environments**. Until today, I've continued to pursue new and interesting topics in order to further consolidate my knowledge.
+Hi! My name is [Francis](https://github.com/FrancisIGP). My long-term objective is to hone my capacity to tackle real-world problems and broaden my cognitive span in order to steer my career in this path. I'm primarily interested in the following areas of IT: **network engineering, computer science, computer security, computer anatomy, and Linux environments**. Until today, I've continued to pursue new and interesting topics in order to further consolidate my knowledge.
 
 What inspires me to continue learning **Information Technology** is the desire to contribute to solving real-world challenges that have arisen as a result of technology's continuous growth over the years. With an in-depth grasp of technology, I will be able to support and inspire future colleagues, as well as develop a successful career.
 
