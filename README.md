@@ -4,17 +4,17 @@
 
 ![](https://komarev.com/ghpvc/?username=FrancisIGP&color=blue) [![Github](https://img.shields.io/github/followers/FrancisIGP?label=Follow&style=social)](https://github.com/FrancisIGP)
 
-My name is [Francis](https://github.com/FrancisIGP). My long-term objective is to hone my ability to solve real-world problems and broaden the scope of my comprehension in order to steer my career in this direction. For few years, I've been investing my time accumulating disparate resources and articles from the internet in order to continuously learn new things; I'm primarily interested in the following areas of IT: **network engineering, computer science, security engineering, computer anatomy, and Linux environments**. Until today, I've continued to pursue new and interesting topics in order to further consolidate my knowledge.
+My name is [Francis](https://github.com/FrancisIGP). My long-term objective is to hone my capacity to tackle real-world problems and broaden my cognitive span in order to steer my career in this path. I'm primarily interested in the following areas of IT: **network engineering, computer science, security engineering, computer anatomy, and Linux environments**. Until today, I've continued to pursue new and interesting topics in order to further consolidate my knowledge.
 
-What motivates me to continue learning **Information Technology** is the desire to contribute real world problems as a result of the ever-growing advancement of technology throughout the years. With the ability to gain a thorough understanding of technologies, I will be able to assist and inspire my future colleagues and build a successful career.
+What inspires me to continue learning **Information Technology** is the desire to contribute to solving real-world challenges that have arisen as a result of technology's continuous growth over the years. With an in-depth grasp of technology, I will be able to support and inspire future colleagues, as well as develop a successful career.
 
-If you're interested, you're welcome to browse through my Github projects. I publish contents such as documents and open-source programs.
+You are welcome to browse through my Github projects. I publish a variety of materials, including documents and open-source programs.
 
 ### Supplementary Information:
 
 - 🌏 Southeast Asian
 - 😄 Pronouns: he, him, his
-- 🧠 Learning Computer Science, Computer Security, and Network Engineering.
+- 🧠 Learning Computer Science/Computer Security/Network Engineering.
 
 <h4><b>Connect with me:</b> <a href="https://discordapp.com/users/448500121605505035/">Discord</a> | <a href="https://github.com/FrancisIGP">Github</a> ~  <b>Discord Servers:</b> <a href="https://discord.gg/G563YXspQf">3d Lock</a> | <a href="https://discord.gg/sc8n9p8w6E">Coder's Hangout</a> | <a href="https://discord.com/invite/VMSh7qY">Networking</a></h4>
 
