@@ -10,7 +10,7 @@ What inspires me to continue learning **Information Technology** is the desire t
 
 You are welcome to browse through my Github projects. I publish a variety of materials, including documents and open-source programs.
 
-## Supplementary Information:
+### Supplementary Information:
 
 - 🌏 Southeast Asian
 - 😄 Pronouns: he, him, his
