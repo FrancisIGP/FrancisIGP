@@ -16,7 +16,7 @@ You are welcome to browse through my Github projects. I publish a variety of mat
 - 😄 Pronouns: he, him, his
 - 🧠 Learning Computer Science | Computer Security | Network Engineering.
 
-<h4><b>Connect with me:</b> <a href="https://discordapp.com/users/448500121605505035/">Discord</a> | <a href="https://github.com/FrancisIGP">Github</a> ~  <b>Discord Servers:</b> <a href="https://discord.gg/G563YXspQf">3d Lock</a> | <a href="https://discord.gg/sc8n9p8w6E">Coder's Hangout</a> | <a href="https://discord.com/invite/VMSh7qY">Networking</a></h4>
+<h4><b>Connect with me:</b> <a href="https://discordapp.com/users/448500121605505035/">Discord</a> | <a href="https://github.com/FrancisIGP">Github</a> ~  <b>Discord Servers:</b> <a href="https://discord.gg/G563YXspQf">3d Lock</a> | <a href="https://discord.gg/sc8n9p8w6E">Coder's Hangout</a> | <a href="https://discord.com/invite/VMSh7qY">DisNOG.org</a></h4>
 
 <!-- ### 💻 Technologies
 
