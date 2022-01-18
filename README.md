@@ -1,4 +1,4 @@
-![8d965fcff9cdec6c99722fe67a74c181](https://user-images.githubusercontent.com/75497349/149957338-ed9c7c5a-fe4a-430d-81bb-b6977e5e9cb2.jpg)
+![3ZEmsMA](https://user-images.githubusercontent.com/75497349/149957727-5aa8255f-8b6b-486d-b04c-956a4a07dd1e.png)
 
 # Welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
