@@ -12,6 +12,7 @@ You are welcome to browse through my GitHub projects. I publish various material
 - 🏫 College Student at the University of Santo Tomas
 - 🎓 BS in Data Science Analytics
 - 🧠 Learning Computer Science, Data Science, Network Engineering, Information Security
+- 🏐 Volleyball Athlete
 
 <details>
 <summary>⚙️ GitHub Analytics</summary>
