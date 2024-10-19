@@ -12,7 +12,9 @@ You are welcome to browse through my GitHub projects. I publish various material
 - 😄 Pronouns: He/Him
 - 🏫 College Student at the University of Santo Tomas
 - 🎓 BS in Data Science Analytics
-- 🧠 Learning Computer Science  |  Computer Security  |  Networking  |  Cybersecurity  |  Data Science.
+- <details><summary>🧠 Learning</summary>
+  - Computer Science  |  Computer Security  |  Networking  |  Cybersecurity  |  Data Science.
+</details> 
 
 <details>
 <summary>⚙️ GitHub Analytics</summary>
