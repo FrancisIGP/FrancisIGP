@@ -2,14 +2,13 @@
 
 ![](https://komarev.com/ghpvc/?username=FrancisIGP&color=blue) [![Github](https://img.shields.io/github/followers/FrancisIGP?label=Follow&style=social)](https://github.com/FrancisIGP)
 
-Hello, welcome to my GitHub repository! I am a career-driven individual whose long-term objective is to hone my capacity to tackle real-world problems and broaden my cognitive span to steer my career on this path. I aim to showcase my competencies by applying what I have learned in solving real-world problems. I am contemporarily pursuing my studies in network engineering, computer science, computer security, data science, and information technology.
+Hello, welcome to my GitHub repository! I am a career-driven individual whose long-term objective is to hone my capacity to tackle real-world problems and broaden my cognitive span in technology. I aim to showcase my competencies by applying what I have learned in solving real-world problems. I am contemporarily pursuing my studies in network engineering, computer science, computer security, data science, and information technology.
 
 You are welcome to browse through my GitHub projects. I publish various materials, including documents and open-source programs.
 
 ### Supplementary Information:
 
 - 🌏 Southeast Asian
-- 😄 Pronouns: He/Him
 - 🏫 College Student at the University of Santo Tomas
 - 🎓 BS in Data Science Analytics
 - 🧠 Learning Computer Science, Data Science, Network Engineering, Information Security
