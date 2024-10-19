@@ -1,5 +1,3 @@
-![3ZEmsMA](https://user-images.githubusercontent.com/75497349/149957727-5aa8255f-8b6b-486d-b04c-956a4a07dd1e.png)
-
 # Welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
 ![](https://komarev.com/ghpvc/?username=FrancisIGP&color=blue) [![Github](https://img.shields.io/github/followers/FrancisIGP?label=Follow&style=social)](https://github.com/FrancisIGP)
@@ -12,11 +10,13 @@ You are welcome to browse through my GitHub projects. I publish various material
 
 - 🌏 Southeast Asian
 - 😄 Pronouns: He/Him
+- 🏫 College Student at the University of Santo Tomas
+- 🎓 BS in Data Science Analytics
 - 🧠 Learning Computer Science | Computer Security | Networking | Cybersecurity | Data Science.
 
-<h4><b>Connect with me:</b> <a href="https://discordapp.com/users/448500121605505035/">Discord</a> | <a href="https://github.com/FrancisIGP">Github</a> ~  <b>Discord Servers:</b> <a href="https://discord.gg/G563YXspQf">3d Lock</a> | <a href="https://discord.gg/sc8n9p8w6E">Coder's Hangout</a> | <a href="https://discord.com/invite/VMSh7qY">DisNOG.org</a></h4>
-
 <!-- <details>
+Banner - ![3ZEmsMA](https://user-images.githubusercontent.com/75497349/149957727-5aa8255f-8b6b-486d-b04c-956a4a07dd1e.png)
+
   <summary>⚙️ GitHub Analytics</summary>
 <br>
 
