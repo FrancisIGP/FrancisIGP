@@ -14,10 +14,7 @@ You are welcome to browse through my GitHub projects. I publish various material
 - 🎓 BS in Data Science Analytics
 - 🧠 Learning Computer Science | Computer Security | Networking | Cybersecurity | Data Science.
 
-<!-- <details>
-Banner - ![3ZEmsMA](https://user-images.githubusercontent.com/75497349/149957727-5aa8255f-8b6b-486d-b04c-956a4a07dd1e.png)
-
-  <summary>⚙️ GitHub Analytics</summary>
+<summary>⚙️ GitHub Analytics</summary>
 <br>
 
 <p align="left">
@@ -28,6 +25,9 @@ Banner - ![3ZEmsMA](https://user-images.githubusercontent.com/75497349/149957727
 </p>
    
 </details> >
+
+<!-- <details>
+Banner - ![3ZEmsMA](https://user-images.githubusercontent.com/75497349/149957727-5aa8255f-8b6b-486d-b04c-956a4a07dd1e.png)
 
 <!-- <details>
 <summary>📚 Github Projects</summary>
