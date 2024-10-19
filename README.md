@@ -14,9 +14,8 @@ You are welcome to browse through my GitHub projects. I publish various material
 - 🎓 BS in Data Science Analytics
 - 🧠 Learning Computer Science | Computer Security | Networking | Cybersecurity | Data Science.
 
-<summary>⚙️ GitHub Analytics</summary>
-<br>
 <details>
+<summary>⚙️ GitHub Analytics</summary>
 <br>
 <p align="left">
   <a href="https://github.com/FrancisIGP">
