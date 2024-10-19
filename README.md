@@ -15,6 +15,7 @@ You are welcome to browse through my GitHub projects. I publish various material
 - 🧠 Learning Computer Science | Computer Security | Networking | Cybersecurity | Data Science.
 
 <summary>⚙️ GitHub Analytics</summary>
+<details>
 <br>
 
 <p align="left">
@@ -24,9 +25,9 @@ You are welcome to browse through my GitHub projects. I publish various material
   </a>
 </p>
    
-</details> >
+</details> 
 
-<!-- <details>
+<!-- 
 Banner - ![3ZEmsMA](https://user-images.githubusercontent.com/75497349/149957727-5aa8255f-8b6b-486d-b04c-956a4a07dd1e.png)
 
 <!-- <details>
