@@ -10,8 +10,8 @@ You are welcome to browse through my GitHub projects. I publish various material
 
 - 🌏 Southeast Asian
 - 🏐 Volleyball Athlete
-- 🏫 College Student at the University of Santo Tomas
 - 🎓 BS in Data Science Analytics
+- 🏫 College Student at the University of Santo Tomas
 - 🧠 Learning Computer Science, Data Science, Network Engineering, Information Security
 
 <details>
