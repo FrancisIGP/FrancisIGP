@@ -9,9 +9,8 @@ You are welcome to browse through my GitHub projects. I publish various material
 ### Supplementary Information:
 
 - 🌏 Southeast Asian
-- 🏐 Volleyball Athlete
-- 🎓 BS in Data Science Analytics
 - 🏫 College Student at the University of Santo Tomas
+- 🎓 BS in Data Science Analytics
 - 🧠 Learning Computer Science, Data Science, Network Engineering, Information Security
 
 <details>
