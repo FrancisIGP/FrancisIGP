@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=FrancisIGP&color=blue) [![Github](https://img.shields.io/github/followers/FrancisIGP?label=Follow&style=social)](https://github.com/FrancisIGP)
 
-Hello, welcome to my GitHub repository! I am a career-oriented individual who aims to hone my skills to tackle real-world problems and broaden my cognitive span in technology. I aim to showcase my competencies by soon applying what I have learned in university through solving real-world problems. I am currently pursuing my studies in BS Data Science and Analytics while also learning other areas such as network engineering, computer science, computer security, and information technology.
+Hello, welcome to my GitHub repository! I am a career-oriented individual who aims to hone my skills to tackle real-world problems and broaden my cognitive span in technology. I aim to showcase my competencies by soon applying what I have learned in university through solving real-world problems. I am currently pursuing my studies in BS Data Science and Analytics while also learning other areas such as Computer Science, Network Engineering, and Information Technology/Security.
 
 You are very much welcome to browse through my GitHub projects. I publish various materials, including documents and open-source programs from time-to-time.
 
@@ -11,7 +11,7 @@ You are very much welcome to browse through my GitHub projects. I publish variou
 - 🌏 Southeast Asian
 - 🏫 College Student at the University of Santo Tomas
 - 🎓 BS in Data Science Analytics
-- 🧠 Learning mainly BS Data Science and Analytics; Others include Computer Programming, Network Engineering, and Information Security
+- 🧠 Learning mainly BS Data Science and Analytics; Others include Computer Science, Network Engineering, and Information Technology/Security
 
 <details>
 <summary>⚙️ GitHub Analytics</summary>
