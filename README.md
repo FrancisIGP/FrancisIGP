@@ -11,7 +11,8 @@ You are very much welcome to browse through my GitHub projects. I publish variou
 - 🌏 Southeast Asian
 - 🏫 College Student at the University of Santo Tomas
 - 🎓 BS in Data Science Analytics
-- 🧠 Learning mainly BS Data Science and Analytics; Others include Computer Science, Network Engineering, and Information Technology/Security
+- 🧠 Learning mainly BS Data Science and Analytics
+- 🤓 Others: Computer Science, Network Engineering, and Information Technology/Security
 
 <details>
 <summary>⚙️ GitHub Analytics</summary>
